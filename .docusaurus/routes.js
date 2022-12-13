@@ -4,11 +4,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/en/',
-    component: ComponentCreator('/en/','796'),
-    exact: true
-  },
-  {
     path: '/en/about-arguments',
     component: ComponentCreator('/en/about-arguments','483'),
     exact: true
@@ -251,6 +246,11 @@ export default [
   {
     path: '/en/the-project',
     component: ComponentCreator('/en/the-project','284'),
+    exact: true
+  },
+  {
+    path: '/en/',
+    component: ComponentCreator('/en/','796'),
     exact: true
   },
   {

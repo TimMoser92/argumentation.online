@@ -1,8 +1,4 @@
 {
-  "/en/-796": {
-    "component": "08cfc01d",
-    "config": "5e9f5e1a"
-  },
   "/en/about-arguments-483": {
     "component": "1f391b9e",
     "content": "aac395af"
@@ -459,5 +455,9 @@
   "/en/the-project-284": {
     "component": "1f391b9e",
     "content": "8a0cebcf"
+  },
+  "/en/-796": {
+    "component": "08cfc01d",
+    "config": "5e9f5e1a"
   }
 }
