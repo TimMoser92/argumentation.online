@@ -1,0 +1,40 @@
+{
+  "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-06",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/reconstructions/Zinke_ArgOnl-2020-06.md",
+  "source": "@site/reconstructions/Zinke_ArgOnl-2020-06.md",
+  "title": "Leibniz: Der Raum ist nichts absolut Seiendes",
+  "description": "Gemäß der \"absoluten Konzeption des Raumes\", ist der Raum etwas unabhängig Existierendes, eine Substanz, ein \"Behälter\" der Dinge, welcher von diesen nicht verändert wird. Diese Vorstellung wird gewöhnlich Newton zugeschrieben. Leibniz vertritt hingegen eine \"relationale Konzeption des Raumes\", in welcher der Raum nicht unabhängig von den Dingen existiert. Wir rekonstruieren ein Argument von Leibniz gegen die absolute Konzeption des Raumes.",
+  "date": "2020-04-04T00:00:00.000Z",
+  "formattedDate": "April 4, 2020",
+  "tags": [
+    {
+      "label": "Leibniz",
+      "permalink": "/en/reconstructions/tags/leibniz"
+    },
+    {
+      "label": "Raum",
+      "permalink": "/en/reconstructions/tags/raum"
+    },
+    {
+      "label": "Philosophie",
+      "permalink": "/en/reconstructions/tags/philosophie"
+    }
+  ],
+  "readingTime": 2.475,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Alexandra Zinke",
+      "affiliation": "Universität Tübingen",
+      "email": "alexandra.zinke@uni-tuebingen.de"
+    }
+  ],
+  "prevItem": {
+    "title": "Leibniz: Lebewesen",
+    "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-05"
+  },
+  "nextItem": {
+    "title": "Anselm: Gottesbeweis (Proslogion 2)",
+    "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-07"
+  }
+}
