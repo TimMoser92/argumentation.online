@@ -245,7 +245,7 @@ export default [
   },
   {
     path: '/en/search',
-    component: ComponentCreator('/en/search','0d1'),
+    component: ComponentCreator('/en/search','bd2'),
     exact: true
   },
   {

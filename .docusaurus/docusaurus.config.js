@@ -333,7 +333,11 @@ export default {
       "versionPersistence": "localStorage"
     },
     "metadatas": [],
-    "hideableSidebar": false
+    "hideableSidebar": false,
+    "tableOfContents": {
+      "minHeadingLevel": 2,
+      "maxHeadingLevel": 3
+    }
   },
   "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",
