@@ -1,27 +1,27 @@
 {
-  "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-04",
+  "permalink": "/reconstructions/Zinke_ArgOnl-2020-04",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/reconstructions/Zinke_ArgOnl-2020-04.md",
   "source": "@site/reconstructions/Zinke_ArgOnl-2020-04.md",
   "title": "Immanuel Kant: Die Welt hat keinen Anfang in der Zeit",
   "description": "Rekonstruiert wird Kants Argument dafür, dass die Welt keinen Anfang in der Zeit hat. Zusammen mit Kants Argument dafür, dass die Welt einen Anfang in der Zeit hat, bildet es die erste Antinomie der reinen Vernunft.",
   "date": "2020-04-04T00:00:00.000Z",
-  "formattedDate": "April 4, 2020",
+  "formattedDate": "4. April 2020",
   "tags": [
     {
       "label": "Kant",
-      "permalink": "/en/reconstructions/tags/kant"
+      "permalink": "/reconstructions/tags/kant"
     },
     {
       "label": "Antinomie",
-      "permalink": "/en/reconstructions/tags/antinomie"
+      "permalink": "/reconstructions/tags/antinomie"
     },
     {
       "label": "Zeit",
-      "permalink": "/en/reconstructions/tags/zeit"
+      "permalink": "/reconstructions/tags/zeit"
     },
     {
       "label": "Philosophie",
-      "permalink": "/en/reconstructions/tags/philosophie"
+      "permalink": "/reconstructions/tags/philosophie"
     }
   ],
   "readingTime": 2.345,
@@ -57,10 +57,10 @@
   },
   "prevItem": {
     "title": "Immanuel Kant: Die Welt hat einen Anfang in der Zeit",
-    "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-03"
+    "permalink": "/reconstructions/Zinke_ArgOnl-2020-03"
   },
   "nextItem": {
     "title": "Leibniz: Lebewesen",
-    "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-05"
+    "permalink": "/reconstructions/Zinke_ArgOnl-2020-05"
   }
 }

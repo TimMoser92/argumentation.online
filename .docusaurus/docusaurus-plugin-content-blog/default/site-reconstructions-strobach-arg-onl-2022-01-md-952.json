@@ -1,27 +1,27 @@
 {
-  "permalink": "/en/reconstructions/Strobach_ArgOnl-2022-01",
+  "permalink": "/reconstructions/Strobach_ArgOnl-2022-01",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/reconstructions/Strobach_ArgOnl-2022-01.md",
   "source": "@site/reconstructions/Strobach_ArgOnl-2022-01.md",
   "title": "Frank Jackson: Mary",
   "description": "Weil der australische Philosoph Frank Jackson der Hauptfigur einer kleinen Geschichte den Allerweltsnamen „Mary“ gegeben hat, ist das Argument, das diese Geschichte illustrieren soll, als Mary-Argument (oder, kürzer, Mary) bekannt. Es ist eines der berühmtesten Argumente in der Philosophie des Geistes (philosophy of mind) geworden, obwohl Jackson es selbst später skeptisch gesehen hat. Es ist ein Argument gegen eine Position, die den Namen „Physikalismus“ („physicalism“) trägt. Aus dem Argument geht nebenbei recht gut verständlich hervor, worin diese Position besteht.",
   "date": "2022-10-14T00:00:00.000Z",
-  "formattedDate": "October 14, 2022",
+  "formattedDate": "14. Oktober 2022",
   "tags": [
     {
       "label": "Jackson",
-      "permalink": "/en/reconstructions/tags/jackson"
+      "permalink": "/reconstructions/tags/jackson"
     },
     {
       "label": "Mary",
-      "permalink": "/en/reconstructions/tags/mary"
+      "permalink": "/reconstructions/tags/mary"
     },
     {
       "label": "Physikalismus",
-      "permalink": "/en/reconstructions/tags/physikalismus"
+      "permalink": "/reconstructions/tags/physikalismus"
     },
     {
       "label": "Philosophie des Geistes",
-      "permalink": "/en/reconstructions/tags/philosophie-des-geistes"
+      "permalink": "/reconstructions/tags/philosophie-des-geistes"
     }
   ],
   "readingTime": 4.19,
@@ -56,6 +56,6 @@
   },
   "nextItem": {
     "title": "Friedrich Nietzsche: Fragment über die Logik",
-    "permalink": "/en/reconstructions/Loewenstein_ArgOnl-2021-01"
+    "permalink": "/reconstructions/Loewenstein_ArgOnl-2021-01"
   }
 }

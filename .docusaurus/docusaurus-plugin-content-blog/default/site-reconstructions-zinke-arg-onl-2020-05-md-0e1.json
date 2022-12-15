@@ -1,31 +1,31 @@
 {
-  "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-05",
+  "permalink": "/reconstructions/Zinke_ArgOnl-2020-05",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/reconstructions/Zinke_ArgOnl-2020-05.md",
   "source": "@site/reconstructions/Zinke_ArgOnl-2020-05.md",
   "title": "Leibniz: Lebewesen",
   "description": "Leibniz unterscheidet zwei Arten von Maschinen: (i) Maschinen, die auch aus Teilen zusammengesetzt sind, welche selbst keine Maschinen sind, und (ii) Maschinen, die keine Teile enthalten, die selbst keine Maschine sind. Menschen können nur Maschinen der ersten Art schaffen, Gott auch Maschinen der zweiten Art. Alle Lebewesen sind nach Leibniz Maschinen der zweiten Art, d.h. \"natürliche Maschinen.\"",
   "date": "2020-04-04T00:00:00.000Z",
-  "formattedDate": "April 4, 2020",
+  "formattedDate": "4. April 2020",
   "tags": [
     {
       "label": "Leibniz",
-      "permalink": "/en/reconstructions/tags/leibniz"
+      "permalink": "/reconstructions/tags/leibniz"
     },
     {
       "label": "Lebewesen",
-      "permalink": "/en/reconstructions/tags/lebewesen"
+      "permalink": "/reconstructions/tags/lebewesen"
     },
     {
       "label": "Maschinen",
-      "permalink": "/en/reconstructions/tags/maschinen"
+      "permalink": "/reconstructions/tags/maschinen"
     },
     {
       "label": "Gott",
-      "permalink": "/en/reconstructions/tags/gott"
+      "permalink": "/reconstructions/tags/gott"
     },
     {
       "label": "Philosophie",
-      "permalink": "/en/reconstructions/tags/philosophie"
+      "permalink": "/reconstructions/tags/philosophie"
     }
   ],
   "readingTime": 2.255,
@@ -62,10 +62,10 @@
   },
   "prevItem": {
     "title": "Immanuel Kant: Die Welt hat keinen Anfang in der Zeit",
-    "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-04"
+    "permalink": "/reconstructions/Zinke_ArgOnl-2020-04"
   },
   "nextItem": {
     "title": "Leibniz: Der Raum ist nichts absolut Seiendes",
-    "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-06"
+    "permalink": "/reconstructions/Zinke_ArgOnl-2020-06"
   }
 }

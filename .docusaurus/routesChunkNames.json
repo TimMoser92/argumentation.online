@@ -1,495 +1,688 @@
 {
-  "/en/about-arguments-483": {
-    "component": "1f391b9e",
-    "content": "aac395af"
+  "/__docusaurus/debug-0c2": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-cf-0b6"
+    }
   },
-  "/en/impressum-8ed": {
-    "component": "1f391b9e",
-    "content": "18b94d93"
+  "/__docusaurus/debug/config-375": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-cf-0b6"
+    }
   },
-  "/en/markdown-page-5d1": {
-    "component": "1f391b9e",
-    "content": "e3d59151"
+  "/__docusaurus/debug/content-75e": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-cf-0b6"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/en/reconstructions-5f5": {
-    "component": "a6aa9e1f",
-    "sidebar": "814f3328",
+  "/__docusaurus/debug/globalData-c2e": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-cf-0b6"
+    }
+  },
+  "/__docusaurus/debug/metadata-837": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-cf-0b6"
+    }
+  },
+  "/__docusaurus/debug/registry-0b5": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-cf-0b6"
+    }
+  },
+  "/__docusaurus/debug/routes-b78": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-5-cf-0b6"
+    }
+  },
+  "/about-arguments-0bc": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-arguments-526-7cb"
+    },
+    "content": "content---about-argumentsb-01-014"
+  },
+  "/impressum-15c": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-arguments-526-7cb"
+    },
+    "content": "content---impressum-930-0d4"
+  },
+  "/markdown-page-3b9": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-arguments-526-7cb"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/reconstructions-1ef": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "925e9d7d"
+        "content": "content---reconstructions-925-3b6"
       },
       {
-        "content": "a843eb2d"
+        "content": "content---reconstructionsa-84-7e7"
       },
       {
-        "content": "6c47b4ef"
+        "content": "content---reconstructions-6-c-4-e09"
       },
       {
-        "content": "03c02b68"
+        "content": "content---reconstructions-03-c-5cb"
       },
       {
-        "content": "54e974df"
+        "content": "content---reconstructions-54-e-443"
       },
       {
-        "content": "103d4f25"
+        "content": "content---reconstructions-103-4a7"
       },
       {
-        "content": "9f6c9c98"
+        "content": "content---reconstructions-9-f-6-1f0"
       },
       {
-        "content": "a834350f"
+        "content": "content---reconstructionsa-83-54d"
       },
       {
-        "content": "933c7e43"
+        "content": "content---reconstructions-933-1c6"
       }
     ],
-    "metadata": "6a8463e3"
+    "metadata": "metadata---reconstructionsb-9-f-b64"
   },
-  "/en/reconstructions/archive-66c": {
-    "component": "9e4087bc",
-    "archive": "f30826ae"
+  "/reconstructions/archive-7ac": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "archive": "archive---reconstructions-archive-4-b-7-6b3"
   },
-  "/en/reconstructions/Lanius_ArgOnl-2020-1-255": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "ea8d2316"
+  "/reconstructions/Lanius_ArgOnl-2020-1-296": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
+    "content": "content---reconstructions-lanius-arg-onl-2020-1-ea-8-117"
   },
-  "/en/reconstructions/Loewenstein_ArgOnl-2021-01-026": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "b58a8a43"
+  "/reconstructions/Loewenstein_ArgOnl-2021-01-d75": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
+    "content": "content---reconstructions-loewenstein-arg-onl-2021-01-b-58-73a"
   },
-  "/en/reconstructions/Strobach_ArgOnl-2022-01-0b5": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "9525a29a"
+  "/reconstructions/Strobach_ArgOnl-2022-01-73d": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
+    "content": "content---reconstructions-strobach-arg-onl-2022-01952-9da"
   },
-  "/en/reconstructions/tags-090": {
-    "component": "01a85c17",
-    "sidebar": "814f3328",
-    "tags": "b88732bb"
+  "/reconstructions/tags-d7f": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
+    "tags": "tags---reconstructions-tags-607-ee9"
   },
-  "/en/reconstructions/tags/adjunktiver-syllogismus-dbd": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/adjunktiver-syllogismus-20b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a843eb2d"
+        "content": "content---reconstructionsa-84-7e7"
       }
     ],
-    "metadata": "b8d8d34e",
-    "listMetadata": "b3fbc257"
+    "tag": "tag---reconstructions-tags-adjunktiver-syllogismusc-0-c-2a0",
+    "listMetadata": "listMetadata---reconstructions-tags-adjunktiver-syllogismuscd-1-cd9"
   },
-  "/en/reconstructions/tags/anselm-b81": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/anselm-306": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "9f6c9c98"
+        "content": "content---reconstructions-9-f-6-1f0"
       }
     ],
-    "metadata": "e5d90913",
-    "listMetadata": "61afdf5a"
+    "tag": "tag---reconstructions-tags-anselmcb-0-f13",
+    "listMetadata": "listMetadata---reconstructions-tags-anselm-31-e-660"
   },
-  "/en/reconstructions/tags/antinomie-b63": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/antinomie-840": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "6c47b4ef"
+        "content": "content---reconstructions-6-c-4-e09"
       },
       {
-        "content": "03c02b68"
+        "content": "content---reconstructions-03-c-5cb"
       }
     ],
-    "metadata": "76852309",
-    "listMetadata": "e4a2deed"
+    "tag": "tag---reconstructions-tags-antinomie-488-354",
+    "listMetadata": "listMetadata---reconstructions-tags-antinomied-83-294"
   },
-  "/en/reconstructions/tags/aristoteles-14f": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/aristoteles-a71": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a843eb2d"
+        "content": "content---reconstructionsa-84-7e7"
       }
     ],
-    "metadata": "aa79a240",
-    "listMetadata": "551118d6"
+    "tag": "tag---reconstructions-tags-aristoteles-9-f-7-12a",
+    "listMetadata": "listMetadata---reconstructions-tags-aristotelescb-8-246"
   },
-  "/en/reconstructions/tags/ausschlussprinzip-542": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/ausschlussprinzip-cab": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a843eb2d"
+        "content": "content---reconstructionsa-84-7e7"
       }
     ],
-    "metadata": "12d75f49",
-    "listMetadata": "83c34cbb"
+    "tag": "tag---reconstructions-tags-ausschlussprinzipbe-3-62e",
+    "listMetadata": "listMetadata---reconstructions-tags-ausschlussprinzip-024-b39"
   },
-  "/en/reconstructions/tags/das-ich-7ec": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/das-ich-90a": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a834350f"
+        "content": "content---reconstructionsa-83-54d"
       }
     ],
-    "metadata": "19ca3bf0",
-    "listMetadata": "e86bb9e3"
+    "tag": "tag---reconstructions-tags-das-ich-758-f10",
+    "listMetadata": "listMetadata---reconstructions-tags-das-ichef-1-fa1"
   },
-  "/en/reconstructions/tags/disjunktiver-syllogismus-96a": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/disjunktiver-syllogismus-5ed": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a843eb2d"
+        "content": "content---reconstructionsa-84-7e7"
       }
     ],
-    "metadata": "bc9f4889",
-    "listMetadata": "ebe51696"
+    "tag": "tag---reconstructions-tags-disjunktiver-syllogismusb-06-b53",
+    "listMetadata": "listMetadata---reconstructions-tags-disjunktiver-syllogismuscc-4-ccb"
   },
-  "/en/reconstructions/tags/existenz-ddf": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/existenz-183": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "9f6c9c98"
+        "content": "content---reconstructions-9-f-6-1f0"
       }
     ],
-    "metadata": "3291ce9e",
-    "listMetadata": "a81b529c"
+    "tag": "tag---reconstructions-tags-existenz-27-c-011",
+    "listMetadata": "listMetadata---reconstructions-tags-existenzf-8-c-6e7"
   },
-  "/en/reconstructions/tags/gott-6c3": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/gott-4c5": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "54e974df"
+        "content": "content---reconstructions-54-e-443"
       }
     ],
-    "metadata": "156350b8",
-    "listMetadata": "991434d7"
+    "tag": "tag---reconstructions-tags-gott-655-268",
+    "listMetadata": "listMetadata---reconstructions-tags-gott-560-e81"
   },
-  "/en/reconstructions/tags/gottesbeweis-a8c": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/gottesbeweis-23e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "9f6c9c98"
+        "content": "content---reconstructions-9-f-6-1f0"
       }
     ],
-    "metadata": "0a5df45a",
-    "listMetadata": "492eb2ea"
+    "tag": "tag---reconstructions-tags-gottesbeweis-535-689",
+    "listMetadata": "listMetadata---reconstructions-tags-gottesbeweis-439-fba"
   },
-  "/en/reconstructions/tags/hedonismus-685": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/hedonismus-5f5": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "933c7e43"
+        "content": "content---reconstructions-933-1c6"
       }
     ],
-    "metadata": "87f1c70c",
-    "listMetadata": "c2830885"
+    "tag": "tag---reconstructions-tags-hedonismus-52-f-056",
+    "listMetadata": "listMetadata---reconstructions-tags-hedonismus-1-f-5-ef0"
   },
-  "/en/reconstructions/tags/hume-63d": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/hume-762": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a834350f"
+        "content": "content---reconstructionsa-83-54d"
       }
     ],
-    "metadata": "09856e27",
-    "listMetadata": "68b11766"
+    "tag": "tag---reconstructions-tags-hume-6-bb-49e",
+    "listMetadata": "listMetadata---reconstructions-tags-hume-574-3f7"
   },
-  "/en/reconstructions/tags/informell-612": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/informell-0f5": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "933c7e43"
+        "content": "content---reconstructions-933-1c6"
       }
     ],
-    "metadata": "8a476e62",
-    "listMetadata": "1843a479"
+    "tag": "tag---reconstructions-tags-informell-629-339",
+    "listMetadata": "listMetadata---reconstructions-tags-informellc-6-e-5e3"
   },
-  "/en/reconstructions/tags/jackson-a5e": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/jackson-934": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "925e9d7d"
+        "content": "content---reconstructions-925-3b6"
       }
     ],
-    "metadata": "bbcc86bf",
-    "listMetadata": "28e0d5a2"
+    "tag": "tag---reconstructions-tags-jackson-316-f6b",
+    "listMetadata": "listMetadata---reconstructions-tags-jackson-6-d-7-bcf"
   },
-  "/en/reconstructions/tags/kant-e6a": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/kant-78c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "6c47b4ef"
+        "content": "content---reconstructions-6-c-4-e09"
       },
       {
-        "content": "03c02b68"
+        "content": "content---reconstructions-03-c-5cb"
       }
     ],
-    "metadata": "a49be98a",
-    "listMetadata": "59c6ae57"
+    "tag": "tag---reconstructions-tags-kantb-10-04a",
+    "listMetadata": "listMetadata---reconstructions-tags-kant-6-ea-039"
   },
-  "/en/reconstructions/tags/lebewesen-6d5": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/lebewesen-bcb": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "54e974df"
+        "content": "content---reconstructions-54-e-443"
       }
     ],
-    "metadata": "ce3227ce",
-    "listMetadata": "3aa78145"
+    "tag": "tag---reconstructions-tags-lebewesenaa-4-087",
+    "listMetadata": "listMetadata---reconstructions-tags-lebewesen-4-be-d66"
   },
-  "/en/reconstructions/tags/leibniz-2e9": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/leibniz-547": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "54e974df"
+        "content": "content---reconstructions-54-e-443"
       },
       {
-        "content": "103d4f25"
+        "content": "content---reconstructions-103-4a7"
       }
     ],
-    "metadata": "ed5e0c2e",
-    "listMetadata": "896c0e6b"
+    "tag": "tag---reconstructions-tags-leibnizd-84-cce",
+    "listMetadata": "listMetadata---reconstructions-tags-leibnizbbc-9c0"
   },
-  "/en/reconstructions/tags/logik-489": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/logik-ce2": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a843eb2d"
+        "content": "content---reconstructionsa-84-7e7"
       }
     ],
-    "metadata": "36ff3c84",
-    "listMetadata": "c3ec7baa"
+    "tag": "tag---reconstructions-tags-logik-0-fa-717",
+    "listMetadata": "listMetadata---reconstructions-tags-logik-1-bd-464"
   },
-  "/en/reconstructions/tags/mary-d37": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/mary-bc0": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "925e9d7d"
+        "content": "content---reconstructions-925-3b6"
       }
     ],
-    "metadata": "824a9659",
-    "listMetadata": "1caffd44"
+    "tag": "tag---reconstructions-tags-mary-2-ff-f0c",
+    "listMetadata": "listMetadata---reconstructions-tags-mary-3-e-4-c30"
   },
-  "/en/reconstructions/tags/maschinen-b32": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/maschinen-b1a": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "54e974df"
+        "content": "content---reconstructions-54-e-443"
       }
     ],
-    "metadata": "dbaecb0f",
-    "listMetadata": "51318549"
+    "tag": "tag---reconstructions-tags-maschinen-498-2a2",
+    "listMetadata": "listMetadata---reconstructions-tags-maschinena-6-d-d29"
   },
-  "/en/reconstructions/tags/modus-tollendo-ponens-be9": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/modus-tollendo-ponens-cb6": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a843eb2d"
+        "content": "content---reconstructionsa-84-7e7"
       }
     ],
-    "metadata": "3435ee4b",
-    "listMetadata": "5819104c"
+    "tag": "tag---reconstructions-tags-modus-tollendo-ponensc-88-29d",
+    "listMetadata": "listMetadata---reconstructions-tags-modus-tollendo-ponens-4-e-7-b9f"
   },
-  "/en/reconstructions/tags/modus-tollendo-tollens-fb3": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/modus-tollendo-tollens-93a": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a843eb2d"
+        "content": "content---reconstructionsa-84-7e7"
       }
     ],
-    "metadata": "728b4e23",
-    "listMetadata": "e452d9ef"
+    "tag": "tag---reconstructions-tags-modus-tollendo-tollens-1-e-7-d15",
+    "listMetadata": "listMetadata---reconstructions-tags-modus-tollendo-tollensa-59-d91"
   },
-  "/en/reconstructions/tags/modus-tollens-508": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/modus-tollens-fe8": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a843eb2d"
+        "content": "content---reconstructionsa-84-7e7"
       }
     ],
-    "metadata": "dabb87e3",
-    "listMetadata": "c7f9c21a"
+    "tag": "tag---reconstructions-tags-modus-tollens-9-ee-4d7",
+    "listMetadata": "listMetadata---reconstructions-tags-modus-tollens-0-eb-0b8"
   },
-  "/en/reconstructions/tags/moralphilosophie-2bf": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/moralphilosophie-2ab": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "933c7e43"
+        "content": "content---reconstructions-933-1c6"
       }
     ],
-    "metadata": "018afb82",
-    "listMetadata": "946d94bb"
+    "tag": "tag---reconstructions-tags-moralphilosophie-0-a-1-a32",
+    "listMetadata": "listMetadata---reconstructions-tags-moralphilosophie-68-c-b01"
   },
-  "/en/reconstructions/tags/nietzsche-e4e": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/nietzsche-46c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a843eb2d"
+        "content": "content---reconstructionsa-84-7e7"
       }
     ],
-    "metadata": "eed29351",
-    "listMetadata": "c325915d"
+    "tag": "tag---reconstructions-tags-nietzsche-9-ad-c74",
+    "listMetadata": "listMetadata---reconstructions-tags-nietzsche-990-edd"
   },
-  "/en/reconstructions/tags/nozick-19e": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/nozick-343": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "933c7e43"
+        "content": "content---reconstructions-933-1c6"
       }
     ],
-    "metadata": "db0acdbf",
-    "listMetadata": "15233e72"
+    "tag": "tag---reconstructions-tags-nozick-369-612",
+    "listMetadata": "listMetadata---reconstructions-tags-nozickcf-5-b70"
   },
-  "/en/reconstructions/tags/philosophie-e4d": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/philosophie-d8c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a843eb2d"
+        "content": "content---reconstructionsa-84-7e7"
       },
       {
-        "content": "6c47b4ef"
+        "content": "content---reconstructions-6-c-4-e09"
       },
       {
-        "content": "03c02b68"
+        "content": "content---reconstructions-03-c-5cb"
       },
       {
-        "content": "54e974df"
+        "content": "content---reconstructions-54-e-443"
       },
       {
-        "content": "103d4f25"
+        "content": "content---reconstructions-103-4a7"
       },
       {
-        "content": "9f6c9c98"
+        "content": "content---reconstructions-9-f-6-1f0"
       }
     ],
-    "metadata": "a577fcbe",
-    "listMetadata": "ea134a2a"
+    "tag": "tag---reconstructions-tags-philosophie-81-f-7d7",
+    "listMetadata": "listMetadata---reconstructions-tags-philosophie-4-ef-01f"
   },
-  "/en/reconstructions/tags/philosophie-des-geistes-b32": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/philosophie-des-geistes-323": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "925e9d7d"
+        "content": "content---reconstructions-925-3b6"
       },
       {
-        "content": "a834350f"
+        "content": "content---reconstructionsa-83-54d"
       }
     ],
-    "metadata": "5ead6cfa",
-    "listMetadata": "8bcc5bd3"
+    "tag": "tag---reconstructions-tags-philosophie-des-geistesaaa-27a",
+    "listMetadata": "listMetadata---reconstructions-tags-philosophie-des-geistes-16-a-8b0"
   },
-  "/en/reconstructions/tags/physikalismus-47e": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/physikalismus-38f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "925e9d7d"
+        "content": "content---reconstructions-925-3b6"
       }
     ],
-    "metadata": "857fc848",
-    "listMetadata": "16924590"
+    "tag": "tag---reconstructions-tags-physikalismuse-93-8a9",
+    "listMetadata": "listMetadata---reconstructions-tags-physikalismus-1-af-bbe"
   },
-  "/en/reconstructions/tags/raum-116": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/raum-bae": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "103d4f25"
+        "content": "content---reconstructions-103-4a7"
       }
     ],
-    "metadata": "b2b80d27",
-    "listMetadata": "5433ccc3"
+    "tag": "tag---reconstructions-tags-rauma-49-0d9",
+    "listMetadata": "listMetadata---reconstructions-tags-raum-344-7b7"
   },
-  "/en/reconstructions/tags/satz-vom-widerspruch-10b": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/satz-vom-widerspruch-47c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "a843eb2d"
+        "content": "content---reconstructionsa-84-7e7"
       }
     ],
-    "metadata": "52df44ce",
-    "listMetadata": "a8f1871b"
+    "tag": "tag---reconstructions-tags-satz-vom-widerspruchf-06-665",
+    "listMetadata": "listMetadata---reconstructions-tags-satz-vom-widerspruchb-29-03d"
   },
-  "/en/reconstructions/tags/zeit-e0e": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+  "/reconstructions/tags/zeit-226": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
     "items": [
       {
-        "content": "6c47b4ef"
+        "content": "content---reconstructions-6-c-4-e09"
       },
       {
-        "content": "03c02b68"
+        "content": "content---reconstructions-03-c-5cb"
       }
     ],
-    "metadata": "ba0eab4b",
-    "listMetadata": "2dfe84ea"
+    "tag": "tag---reconstructions-tags-zeit-09-f-6f3",
+    "listMetadata": "listMetadata---reconstructions-tags-zeited-2-7df"
   },
-  "/en/reconstructions/Zinke_ArgOnl-2020-02-191": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "7d9b019d"
+  "/reconstructions/Zinke_ArgOnl-2020-02-529": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
+    "content": "content---reconstructions-zinke-arg-onl-2020-027-d-9-288"
   },
-  "/en/reconstructions/Zinke_ArgOnl-2020-03-48d": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "d4600981"
+  "/reconstructions/Zinke_ArgOnl-2020-03-867": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
+    "content": "content---reconstructions-zinke-arg-onl-2020-03-d-46-665"
   },
-  "/en/reconstructions/Zinke_ArgOnl-2020-04-9b0": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "531b5b19"
+  "/reconstructions/Zinke_ArgOnl-2020-04-aaa": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
+    "content": "content---reconstructions-zinke-arg-onl-2020-04531-13f"
   },
-  "/en/reconstructions/Zinke_ArgOnl-2020-05-4e5": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "0e162e27"
+  "/reconstructions/Zinke_ArgOnl-2020-05-932": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
+    "content": "content---reconstructions-zinke-arg-onl-2020-050-e-1-c04"
   },
-  "/en/reconstructions/Zinke_ArgOnl-2020-06-5f0": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "df421eef"
+  "/reconstructions/Zinke_ArgOnl-2020-06-61c": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
+    "content": "content---reconstructions-zinke-arg-onl-2020-06-df-4-f83"
   },
-  "/en/reconstructions/Zinke_ArgOnl-2020-07-253": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "9be20643"
+  "/reconstructions/Zinke_ArgOnl-2020-07-2ac": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---reconstructions-926-161"
+    },
+    "sidebar": "sidebar---reconstructions-814-84b",
+    "content": "content---reconstructions-zinke-arg-onl-2020-079-be-78b"
   },
-  "/en/search-730": {
-    "component": "1a4e3797"
+  "/search-098": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---searchc-64-325"
+    }
   },
-  "/en/the-project-284": {
-    "component": "1f391b9e",
-    "content": "8a0cebcf"
+  "/the-project-56c": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-arguments-526-7cb"
+    },
+    "content": "content---the-project-1-cb-704"
   },
-  "/en/-796": {
-    "component": "08cfc01d",
-    "config": "5e9f5e1a"
+  "/-324": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---about-arguments-526-7cb"
+    },
+    "config": "config---5-e-9-4f3"
   }
 }

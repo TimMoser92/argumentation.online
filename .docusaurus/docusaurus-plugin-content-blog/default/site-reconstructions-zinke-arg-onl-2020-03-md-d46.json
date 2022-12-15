@@ -1,27 +1,27 @@
 {
-  "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-03",
+  "permalink": "/reconstructions/Zinke_ArgOnl-2020-03",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/reconstructions/Zinke_ArgOnl-2020-03.md",
   "source": "@site/reconstructions/Zinke_ArgOnl-2020-03.md",
   "title": "Immanuel Kant: Die Welt hat einen Anfang in der Zeit",
   "description": "Rekonstruiert wird Kants Argument für die These, dass die Welt einen Anfang in der Zeit hat. Zusammen mit Kants Argument für die zugehörige Antithese -- dass die Welt keinen Anfang in der Zeit hat, -- bildet es die erste Antinomie der reinen Vernunft. (Wir ignorieren hier die entsprechenden Behauptungen für die Begrenztheit/Unbegrenztheit des Raumes.)",
   "date": "2020-04-04T00:00:00.000Z",
-  "formattedDate": "April 4, 2020",
+  "formattedDate": "4. April 2020",
   "tags": [
     {
       "label": "Kant",
-      "permalink": "/en/reconstructions/tags/kant"
+      "permalink": "/reconstructions/tags/kant"
     },
     {
       "label": "Antinomie",
-      "permalink": "/en/reconstructions/tags/antinomie"
+      "permalink": "/reconstructions/tags/antinomie"
     },
     {
       "label": "Zeit",
-      "permalink": "/en/reconstructions/tags/zeit"
+      "permalink": "/reconstructions/tags/zeit"
     },
     {
       "label": "Philosophie",
-      "permalink": "/en/reconstructions/tags/philosophie"
+      "permalink": "/reconstructions/tags/philosophie"
     }
   ],
   "readingTime": 2.49,
@@ -57,10 +57,10 @@
   },
   "prevItem": {
     "title": "Friedrich Nietzsche: Fragment über die Logik",
-    "permalink": "/en/reconstructions/Loewenstein_ArgOnl-2021-01"
+    "permalink": "/reconstructions/Loewenstein_ArgOnl-2021-01"
   },
   "nextItem": {
     "title": "Immanuel Kant: Die Welt hat keinen Anfang in der Zeit",
-    "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-04"
+    "permalink": "/reconstructions/Zinke_ArgOnl-2020-04"
   }
 }

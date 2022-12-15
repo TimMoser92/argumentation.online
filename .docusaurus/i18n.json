@@ -4,17 +4,19 @@
     "de",
     "en"
   ],
-  "currentLocale": "en",
+  "currentLocale": "de",
   "localeConfigs": {
     "de": {
       "label": "Deutsch",
       "direction": "ltr",
-      "htmlLang": "de"
+      "htmlLang": "de",
+      "calendar": "gregory"
     },
     "en": {
       "label": "English",
       "direction": "ltr",
-      "htmlLang": "en"
+      "htmlLang": "en",
+      "calendar": "gregory"
     }
   }
 }
