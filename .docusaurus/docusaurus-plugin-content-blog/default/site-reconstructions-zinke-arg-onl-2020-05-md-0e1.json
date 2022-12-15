@@ -57,7 +57,7 @@
       "Philosophie"
     ],
     "lang": "de",
-    "id": "Zinke_ArgOnl-2020-05",
+    "slug": "Zinke_ArgOnl-2020-05",
     "layout": "layouts/post.njk"
   },
   "prevItem": {

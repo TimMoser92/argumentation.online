@@ -52,7 +52,7 @@
       "informell"
     ],
     "lang": "de",
-    "id": "Lanius_ArgOnl-2020-1",
+    "slug": "Lanius_ArgOnl-2020-1",
     "layout": "layouts/post.njk"
   },
   "prevItem": {
