@@ -7,7 +7,7 @@ export default {
   "title": "argumentation.online",
   "tagline": "A curated collection of argument reconstructions",
   "url": "https://argumentation.online",
-  "baseUrl": "/",
+  "baseUrl": "/en/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -63,13 +63,13 @@ export default {
       "items": [
         {
           "type": "dropdown",
-          "label": "Rekonstruktionen",
+          "label": "Reconstructions",
           "to": "/reconstructions",
           "position": "left",
           "items": [
             {
               "to": "/reconstructions",
-              "label": "Neueste"
+              "label": "Newest"
             },
             {
               "to": "/reconstructions/tags",
@@ -77,18 +77,18 @@ export default {
             },
             {
               "to": "/reconstructions/archive",
-              "label": "Archiv"
+              "label": "Archive"
             }
           ]
         },
         {
           "to": "/the-project",
-          "label": "Das Projekt",
+          "label": "The Project",
           "position": "left"
         },
         {
           "to": "/about-arguments",
-          "label": "Über Argumente",
+          "label": "About Arguments",
           "position": "left"
         },
         {

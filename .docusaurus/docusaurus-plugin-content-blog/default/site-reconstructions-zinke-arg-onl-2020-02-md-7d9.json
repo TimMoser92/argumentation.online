@@ -1,23 +1,23 @@
 {
-  "permalink": "/reconstructions/Zinke_ArgOnl-2020-02",
+  "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-02",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/reconstructions/Zinke_ArgOnl-2020-02.md",
   "source": "@site/reconstructions/Zinke_ArgOnl-2020-02.md",
   "title": "David Hume: Das Ich",
   "description": "Rekonstruiert wird eine viel diskutierte Passage aus David Humes \"A Treatise of Human Nature\", in welcher Hume sich gegen die zu seiner Zeit weit verbreitete Auffassung (z.B. bei Descartes, Locke, Berkeley) wendet, dass wir das eigene Selbst introspektiv wahrnehmen können.",
   "date": "2020-04-03T00:00:00.000Z",
-  "formattedDate": "3. April 2020",
+  "formattedDate": "April 3, 2020",
   "tags": [
     {
       "label": "Hume",
-      "permalink": "/reconstructions/tags/hume"
+      "permalink": "/en/reconstructions/tags/hume"
     },
     {
       "label": "das Ich",
-      "permalink": "/reconstructions/tags/das-ich"
+      "permalink": "/en/reconstructions/tags/das-ich"
     },
     {
       "label": "Philosophie des Geistes",
-      "permalink": "/reconstructions/tags/philosophie-des-geistes"
+      "permalink": "/en/reconstructions/tags/philosophie-des-geistes"
     }
   ],
   "readingTime": 2.26,
@@ -50,10 +50,10 @@
   },
   "prevItem": {
     "title": "Anselm: Gottesbeweis (Proslogion 2)",
-    "permalink": "/reconstructions/Zinke_ArgOnl-2020-07"
+    "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-07"
   },
   "nextItem": {
     "title": "Robert Nozick -- Das \"Experience Machine\"-Argument gegen den Hedonismus",
-    "permalink": "/reconstructions/Lanius_ArgOnl-2020-1"
+    "permalink": "/en/reconstructions/Lanius_ArgOnl-2020-1"
   }
 }

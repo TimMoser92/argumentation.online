@@ -1,55 +1,55 @@
 {
-  "permalink": "/reconstructions/Loewenstein_ArgOnl-2021-01",
+  "permalink": "/en/reconstructions/Loewenstein_ArgOnl-2021-01",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/reconstructions/Loewenstein_ArgOnl-2021-01.md",
   "source": "@site/reconstructions/Loewenstein_ArgOnl-2021-01.md",
   "title": "Friedrich Nietzsche: Fragment über die Logik",
   "description": "Dieses Fragment aus dem Nachlass Friedrich Nietzsches behandelt die Frage nach dem Status des Satzes vom Widerspruch im Besonderen und der Logik im Allgemeinen. Er argumentiert für die Auffassung, dass die Logik keine deskritive, sondern eine normative Rolle spielt.",
   "date": "2021-12-16T00:00:00.000Z",
-  "formattedDate": "16. Dezember 2021",
+  "formattedDate": "December 16, 2021",
   "tags": [
     {
       "label": "Nietzsche",
-      "permalink": "/reconstructions/tags/nietzsche"
+      "permalink": "/en/reconstructions/tags/nietzsche"
     },
     {
       "label": "Logik",
-      "permalink": "/reconstructions/tags/logik"
+      "permalink": "/en/reconstructions/tags/logik"
     },
     {
       "label": "Philosophie",
-      "permalink": "/reconstructions/tags/philosophie"
+      "permalink": "/en/reconstructions/tags/philosophie"
     },
     {
       "label": "Satz vom Widerspruch",
-      "permalink": "/reconstructions/tags/satz-vom-widerspruch"
+      "permalink": "/en/reconstructions/tags/satz-vom-widerspruch"
     },
     {
       "label": "Aristoteles",
-      "permalink": "/reconstructions/tags/aristoteles"
+      "permalink": "/en/reconstructions/tags/aristoteles"
     },
     {
       "label": "Modus Tollens",
-      "permalink": "/reconstructions/tags/modus-tollens"
+      "permalink": "/en/reconstructions/tags/modus-tollens"
     },
     {
       "label": "Modus Tollendo Tollens",
-      "permalink": "/reconstructions/tags/modus-tollendo-tollens"
+      "permalink": "/en/reconstructions/tags/modus-tollendo-tollens"
     },
     {
       "label": "Disjunktiver Syllogismus",
-      "permalink": "/reconstructions/tags/disjunktiver-syllogismus"
+      "permalink": "/en/reconstructions/tags/disjunktiver-syllogismus"
     },
     {
       "label": "Adjunktiver Syllogismus",
-      "permalink": "/reconstructions/tags/adjunktiver-syllogismus"
+      "permalink": "/en/reconstructions/tags/adjunktiver-syllogismus"
     },
     {
       "label": "Ausschlussprinzip",
-      "permalink": "/reconstructions/tags/ausschlussprinzip"
+      "permalink": "/en/reconstructions/tags/ausschlussprinzip"
     },
     {
       "label": "Modus Tollendo Ponens",
-      "permalink": "/reconstructions/tags/modus-tollendo-ponens"
+      "permalink": "/en/reconstructions/tags/modus-tollendo-ponens"
     }
   ],
   "readingTime": 6.895,
@@ -91,10 +91,10 @@
   },
   "prevItem": {
     "title": "Frank Jackson: Mary",
-    "permalink": "/reconstructions/Strobach_ArgOnl-2022-01"
+    "permalink": "/en/reconstructions/Strobach_ArgOnl-2022-01"
   },
   "nextItem": {
     "title": "Immanuel Kant: Die Welt hat einen Anfang in der Zeit",
-    "permalink": "/reconstructions/Zinke_ArgOnl-2020-03"
+    "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-03"
   }
 }

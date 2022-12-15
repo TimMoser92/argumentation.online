@@ -1,27 +1,27 @@
 {
-  "permalink": "/reconstructions/Zinke_ArgOnl-2020-07",
+  "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-07",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/reconstructions/Zinke_ArgOnl-2020-07.md",
   "source": "@site/reconstructions/Zinke_ArgOnl-2020-07.md",
   "title": "Anselm: Gottesbeweis (Proslogion 2)",
   "description": "Anselm v. Canterburys Überlegung aus dem 11. Jh. ist der vielleicht bekannteste Versuch eines Gottesbeweises. In der Literatur finden sich zahlreiche, oft fein ausgearbeitete Rekonstruktions- und Formalisierungsvorschläge. Wir stellen hier lediglich eine grobe Rekonstruktion vor und verweisen den Leser auf weiterführende Literatur.",
   "date": "2020-04-04T00:00:00.000Z",
-  "formattedDate": "4. April 2020",
+  "formattedDate": "April 4, 2020",
   "tags": [
     {
       "label": "Anselm",
-      "permalink": "/reconstructions/tags/anselm"
+      "permalink": "/en/reconstructions/tags/anselm"
     },
     {
       "label": "Gottesbeweis",
-      "permalink": "/reconstructions/tags/gottesbeweis"
+      "permalink": "/en/reconstructions/tags/gottesbeweis"
     },
     {
       "label": "Existenz",
-      "permalink": "/reconstructions/tags/existenz"
+      "permalink": "/en/reconstructions/tags/existenz"
     },
     {
       "label": "Philosophie",
-      "permalink": "/reconstructions/tags/philosophie"
+      "permalink": "/en/reconstructions/tags/philosophie"
     }
   ],
   "readingTime": 2.445,
@@ -57,10 +57,10 @@
   },
   "prevItem": {
     "title": "Leibniz: Der Raum ist nichts absolut Seiendes",
-    "permalink": "/reconstructions/Zinke_ArgOnl-2020-06"
+    "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-06"
   },
   "nextItem": {
     "title": "David Hume: Das Ich",
-    "permalink": "/reconstructions/Zinke_ArgOnl-2020-02"
+    "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-02"
   }
 }

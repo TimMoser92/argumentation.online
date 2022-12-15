@@ -3,288 +3,253 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '0c2'),
+    path: '/en/about-arguments',
+    component: ComponentCreator('/en/about-arguments', 'd15'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '375'),
+    path: '/en/impressum',
+    component: ComponentCreator('/en/impressum', '725'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '75e'),
+    path: '/en/markdown-page',
+    component: ComponentCreator('/en/markdown-page', 'cd5'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c2e'),
+    path: '/en/reconstructions',
+    component: ComponentCreator('/en/reconstructions', '284'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '837'),
+    path: '/en/reconstructions/archive',
+    component: ComponentCreator('/en/reconstructions/archive', 'af4'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '0b5'),
+    path: '/en/reconstructions/Lanius_ArgOnl-2020-1',
+    component: ComponentCreator('/en/reconstructions/Lanius_ArgOnl-2020-1', '36d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'b78'),
+    path: '/en/reconstructions/Loewenstein_ArgOnl-2021-01',
+    component: ComponentCreator('/en/reconstructions/Loewenstein_ArgOnl-2021-01', '8b6'),
     exact: true
   },
   {
-    path: '/about-arguments',
-    component: ComponentCreator('/about-arguments', '0bc'),
+    path: '/en/reconstructions/Strobach_ArgOnl-2022-01',
+    component: ComponentCreator('/en/reconstructions/Strobach_ArgOnl-2022-01', '8f5'),
     exact: true
   },
   {
-    path: '/impressum',
-    component: ComponentCreator('/impressum', '15c'),
+    path: '/en/reconstructions/tags',
+    component: ComponentCreator('/en/reconstructions/tags', '154'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3b9'),
+    path: '/en/reconstructions/tags/adjunktiver-syllogismus',
+    component: ComponentCreator('/en/reconstructions/tags/adjunktiver-syllogismus', '073'),
     exact: true
   },
   {
-    path: '/reconstructions',
-    component: ComponentCreator('/reconstructions', '1ef'),
+    path: '/en/reconstructions/tags/anselm',
+    component: ComponentCreator('/en/reconstructions/tags/anselm', '429'),
     exact: true
   },
   {
-    path: '/reconstructions/archive',
-    component: ComponentCreator('/reconstructions/archive', '7ac'),
+    path: '/en/reconstructions/tags/antinomie',
+    component: ComponentCreator('/en/reconstructions/tags/antinomie', '3af'),
     exact: true
   },
   {
-    path: '/reconstructions/Lanius_ArgOnl-2020-1',
-    component: ComponentCreator('/reconstructions/Lanius_ArgOnl-2020-1', '296'),
+    path: '/en/reconstructions/tags/aristoteles',
+    component: ComponentCreator('/en/reconstructions/tags/aristoteles', 'f81'),
     exact: true
   },
   {
-    path: '/reconstructions/Loewenstein_ArgOnl-2021-01',
-    component: ComponentCreator('/reconstructions/Loewenstein_ArgOnl-2021-01', 'd75'),
+    path: '/en/reconstructions/tags/ausschlussprinzip',
+    component: ComponentCreator('/en/reconstructions/tags/ausschlussprinzip', 'eb6'),
     exact: true
   },
   {
-    path: '/reconstructions/Strobach_ArgOnl-2022-01',
-    component: ComponentCreator('/reconstructions/Strobach_ArgOnl-2022-01', '73d'),
+    path: '/en/reconstructions/tags/das-ich',
+    component: ComponentCreator('/en/reconstructions/tags/das-ich', '38d'),
     exact: true
   },
   {
-    path: '/reconstructions/tags',
-    component: ComponentCreator('/reconstructions/tags', 'd7f'),
+    path: '/en/reconstructions/tags/disjunktiver-syllogismus',
+    component: ComponentCreator('/en/reconstructions/tags/disjunktiver-syllogismus', '11f'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/adjunktiver-syllogismus',
-    component: ComponentCreator('/reconstructions/tags/adjunktiver-syllogismus', '20b'),
+    path: '/en/reconstructions/tags/existenz',
+    component: ComponentCreator('/en/reconstructions/tags/existenz', '641'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/anselm',
-    component: ComponentCreator('/reconstructions/tags/anselm', '306'),
+    path: '/en/reconstructions/tags/gott',
+    component: ComponentCreator('/en/reconstructions/tags/gott', '3df'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/antinomie',
-    component: ComponentCreator('/reconstructions/tags/antinomie', '840'),
+    path: '/en/reconstructions/tags/gottesbeweis',
+    component: ComponentCreator('/en/reconstructions/tags/gottesbeweis', '14c'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/aristoteles',
-    component: ComponentCreator('/reconstructions/tags/aristoteles', 'a71'),
+    path: '/en/reconstructions/tags/hedonismus',
+    component: ComponentCreator('/en/reconstructions/tags/hedonismus', '498'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/ausschlussprinzip',
-    component: ComponentCreator('/reconstructions/tags/ausschlussprinzip', 'cab'),
+    path: '/en/reconstructions/tags/hume',
+    component: ComponentCreator('/en/reconstructions/tags/hume', '0af'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/das-ich',
-    component: ComponentCreator('/reconstructions/tags/das-ich', '90a'),
+    path: '/en/reconstructions/tags/informell',
+    component: ComponentCreator('/en/reconstructions/tags/informell', '7dd'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/disjunktiver-syllogismus',
-    component: ComponentCreator('/reconstructions/tags/disjunktiver-syllogismus', '5ed'),
+    path: '/en/reconstructions/tags/jackson',
+    component: ComponentCreator('/en/reconstructions/tags/jackson', '90c'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/existenz',
-    component: ComponentCreator('/reconstructions/tags/existenz', '183'),
+    path: '/en/reconstructions/tags/kant',
+    component: ComponentCreator('/en/reconstructions/tags/kant', 'f58'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/gott',
-    component: ComponentCreator('/reconstructions/tags/gott', '4c5'),
+    path: '/en/reconstructions/tags/lebewesen',
+    component: ComponentCreator('/en/reconstructions/tags/lebewesen', '3bc'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/gottesbeweis',
-    component: ComponentCreator('/reconstructions/tags/gottesbeweis', '23e'),
+    path: '/en/reconstructions/tags/leibniz',
+    component: ComponentCreator('/en/reconstructions/tags/leibniz', '078'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/hedonismus',
-    component: ComponentCreator('/reconstructions/tags/hedonismus', '5f5'),
+    path: '/en/reconstructions/tags/logik',
+    component: ComponentCreator('/en/reconstructions/tags/logik', 'a3d'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/hume',
-    component: ComponentCreator('/reconstructions/tags/hume', '762'),
+    path: '/en/reconstructions/tags/mary',
+    component: ComponentCreator('/en/reconstructions/tags/mary', '1d4'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/informell',
-    component: ComponentCreator('/reconstructions/tags/informell', '0f5'),
+    path: '/en/reconstructions/tags/maschinen',
+    component: ComponentCreator('/en/reconstructions/tags/maschinen', 'f4d'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/jackson',
-    component: ComponentCreator('/reconstructions/tags/jackson', '934'),
+    path: '/en/reconstructions/tags/modus-tollendo-ponens',
+    component: ComponentCreator('/en/reconstructions/tags/modus-tollendo-ponens', '82b'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/kant',
-    component: ComponentCreator('/reconstructions/tags/kant', '78c'),
+    path: '/en/reconstructions/tags/modus-tollendo-tollens',
+    component: ComponentCreator('/en/reconstructions/tags/modus-tollendo-tollens', 'ece'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/lebewesen',
-    component: ComponentCreator('/reconstructions/tags/lebewesen', 'bcb'),
+    path: '/en/reconstructions/tags/modus-tollens',
+    component: ComponentCreator('/en/reconstructions/tags/modus-tollens', '903'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/leibniz',
-    component: ComponentCreator('/reconstructions/tags/leibniz', '547'),
+    path: '/en/reconstructions/tags/moralphilosophie',
+    component: ComponentCreator('/en/reconstructions/tags/moralphilosophie', '5d1'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/logik',
-    component: ComponentCreator('/reconstructions/tags/logik', 'ce2'),
+    path: '/en/reconstructions/tags/nietzsche',
+    component: ComponentCreator('/en/reconstructions/tags/nietzsche', '330'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/mary',
-    component: ComponentCreator('/reconstructions/tags/mary', 'bc0'),
+    path: '/en/reconstructions/tags/nozick',
+    component: ComponentCreator('/en/reconstructions/tags/nozick', 'a9c'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/maschinen',
-    component: ComponentCreator('/reconstructions/tags/maschinen', 'b1a'),
+    path: '/en/reconstructions/tags/philosophie',
+    component: ComponentCreator('/en/reconstructions/tags/philosophie', 'eea'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/modus-tollendo-ponens',
-    component: ComponentCreator('/reconstructions/tags/modus-tollendo-ponens', 'cb6'),
+    path: '/en/reconstructions/tags/philosophie-des-geistes',
+    component: ComponentCreator('/en/reconstructions/tags/philosophie-des-geistes', '6b6'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/modus-tollendo-tollens',
-    component: ComponentCreator('/reconstructions/tags/modus-tollendo-tollens', '93a'),
+    path: '/en/reconstructions/tags/physikalismus',
+    component: ComponentCreator('/en/reconstructions/tags/physikalismus', '4ea'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/modus-tollens',
-    component: ComponentCreator('/reconstructions/tags/modus-tollens', 'fe8'),
+    path: '/en/reconstructions/tags/raum',
+    component: ComponentCreator('/en/reconstructions/tags/raum', 'a49'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/moralphilosophie',
-    component: ComponentCreator('/reconstructions/tags/moralphilosophie', '2ab'),
+    path: '/en/reconstructions/tags/satz-vom-widerspruch',
+    component: ComponentCreator('/en/reconstructions/tags/satz-vom-widerspruch', '12a'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/nietzsche',
-    component: ComponentCreator('/reconstructions/tags/nietzsche', '46c'),
+    path: '/en/reconstructions/tags/zeit',
+    component: ComponentCreator('/en/reconstructions/tags/zeit', 'dc2'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/nozick',
-    component: ComponentCreator('/reconstructions/tags/nozick', '343'),
+    path: '/en/reconstructions/Zinke_ArgOnl-2020-02',
+    component: ComponentCreator('/en/reconstructions/Zinke_ArgOnl-2020-02', '703'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/philosophie',
-    component: ComponentCreator('/reconstructions/tags/philosophie', 'd8c'),
+    path: '/en/reconstructions/Zinke_ArgOnl-2020-03',
+    component: ComponentCreator('/en/reconstructions/Zinke_ArgOnl-2020-03', '80d'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/philosophie-des-geistes',
-    component: ComponentCreator('/reconstructions/tags/philosophie-des-geistes', '323'),
+    path: '/en/reconstructions/Zinke_ArgOnl-2020-04',
+    component: ComponentCreator('/en/reconstructions/Zinke_ArgOnl-2020-04', '51c'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/physikalismus',
-    component: ComponentCreator('/reconstructions/tags/physikalismus', '38f'),
+    path: '/en/reconstructions/Zinke_ArgOnl-2020-05',
+    component: ComponentCreator('/en/reconstructions/Zinke_ArgOnl-2020-05', '4a4'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/raum',
-    component: ComponentCreator('/reconstructions/tags/raum', 'bae'),
+    path: '/en/reconstructions/Zinke_ArgOnl-2020-06',
+    component: ComponentCreator('/en/reconstructions/Zinke_ArgOnl-2020-06', '468'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/satz-vom-widerspruch',
-    component: ComponentCreator('/reconstructions/tags/satz-vom-widerspruch', '47c'),
+    path: '/en/reconstructions/Zinke_ArgOnl-2020-07',
+    component: ComponentCreator('/en/reconstructions/Zinke_ArgOnl-2020-07', '6e9'),
     exact: true
   },
   {
-    path: '/reconstructions/tags/zeit',
-    component: ComponentCreator('/reconstructions/tags/zeit', '226'),
+    path: '/en/search',
+    component: ComponentCreator('/en/search', '3b0'),
     exact: true
   },
   {
-    path: '/reconstructions/Zinke_ArgOnl-2020-02',
-    component: ComponentCreator('/reconstructions/Zinke_ArgOnl-2020-02', '529'),
+    path: '/en/the-project',
+    component: ComponentCreator('/en/the-project', '254'),
     exact: true
   },
   {
-    path: '/reconstructions/Zinke_ArgOnl-2020-03',
-    component: ComponentCreator('/reconstructions/Zinke_ArgOnl-2020-03', '867'),
-    exact: true
-  },
-  {
-    path: '/reconstructions/Zinke_ArgOnl-2020-04',
-    component: ComponentCreator('/reconstructions/Zinke_ArgOnl-2020-04', 'aaa'),
-    exact: true
-  },
-  {
-    path: '/reconstructions/Zinke_ArgOnl-2020-05',
-    component: ComponentCreator('/reconstructions/Zinke_ArgOnl-2020-05', '932'),
-    exact: true
-  },
-  {
-    path: '/reconstructions/Zinke_ArgOnl-2020-06',
-    component: ComponentCreator('/reconstructions/Zinke_ArgOnl-2020-06', '61c'),
-    exact: true
-  },
-  {
-    path: '/reconstructions/Zinke_ArgOnl-2020-07',
-    component: ComponentCreator('/reconstructions/Zinke_ArgOnl-2020-07', '2ac'),
-    exact: true
-  },
-  {
-    path: '/search',
-    component: ComponentCreator('/search', '098'),
-    exact: true
-  },
-  {
-    path: '/the-project',
-    component: ComponentCreator('/the-project', '56c'),
-    exact: true
-  },
-  {
-    path: '/',
-    component: ComponentCreator('/', '324'),
+    path: '/en/',
+    component: ComponentCreator('/en/', '9d6'),
     exact: true
   },
   {
