@@ -25,7 +25,7 @@
     }
   ],
   "readingTime": 2.345,
-  "truncated": false,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Alexandra Zinke",

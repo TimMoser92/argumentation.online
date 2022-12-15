@@ -4,19 +4,22 @@
     "de",
     "en"
   ],
+  "path": "i18n",
   "currentLocale": "en",
   "localeConfigs": {
     "de": {
       "label": "Deutsch",
       "direction": "ltr",
       "htmlLang": "de",
-      "calendar": "gregory"
+      "calendar": "gregory",
+      "path": "de"
     },
     "en": {
       "label": "English",
       "direction": "ltr",
       "htmlLang": "en",
-      "calendar": "gregory"
+      "calendar": "gregory",
+      "path": "en"
     }
   }
 }

@@ -25,7 +25,7 @@
     }
   ],
   "readingTime": 4.19,
-  "truncated": false,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Niko Strobach",

@@ -19,6 +19,7 @@ export default {
       "de",
       "en"
     ],
+    "path": "i18n",
     "localeConfigs": {}
   },
   "presets": [

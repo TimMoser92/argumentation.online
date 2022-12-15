@@ -53,7 +53,7 @@
     }
   ],
   "readingTime": 6.895,
-  "truncated": false,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "David Löwenstein",
