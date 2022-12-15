@@ -1,5 +1,8 @@
 {
   "type": "mdx",
   "permalink": "/about-arguments",
-  "source": "@site/src/pages/about-arguments.md"
+  "source": "@site/src/pages/about-arguments.md",
+  "title": "FAQ Argumente und Argumentanalyse",
+  "description": "Was ist ein Argument?",
+  "frontMatter": {}
 }

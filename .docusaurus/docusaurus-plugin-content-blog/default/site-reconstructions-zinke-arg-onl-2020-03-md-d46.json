@@ -33,6 +33,28 @@
       "email": "alexandra.zinke@uni-tuebingen.de"
     }
   ],
+  "frontMatter": {
+    "title": "Immanuel Kant: Die Welt hat einen Anfang in der Zeit",
+    "abstract": "Rekonstruiert wird Kants Argument für die These, dass die Welt einen Anfang in der Zeit hat. Zusammen mit Kants Argument für die zugehörige Antithese -- dass die Welt keinen Anfang in der Zeit hat, -- bildet es die erste Antinomie der reinen Vernunft. (Wir ignorieren hier die entsprechenden Behauptungen für die Begrenztheit/Unbegrenztheit des Raumes.)",
+    "description": "Rekonstruiert wird Kants Argument für die These, dass die Welt einen Anfang in der Zeit hat. Zusammen mit Kants Argument für die zugehörige Antithese -- dass die Welt keinen Anfang in der Zeit hat, -- bildet es die erste Antinomie der reinen Vernunft. (Wir ignorieren hier die entsprechenden Behauptungen für die Begrenztheit/Unbegrenztheit des Raumes.)",
+    "date": "2020-04-04T00:00:00.000Z",
+    "authors": [
+      {
+        "name": "Alexandra Zinke",
+        "affiliation": "Universität Tübingen",
+        "email": "alexandra.zinke@uni-tuebingen.de"
+      }
+    ],
+    "tags": [
+      "Kant",
+      "Antinomie",
+      "Zeit",
+      "Philosophie"
+    ],
+    "lang": "de",
+    "id": "Zinke_ArgOnl-2020-03",
+    "layout": "layouts/post.njk"
+  },
   "prevItem": {
     "title": "Friedrich Nietzsche: Fragment über die Logik",
     "permalink": "/en/reconstructions/Loewenstein_ArgOnl-2021-01"

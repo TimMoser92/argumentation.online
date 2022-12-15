@@ -8,11 +8,13 @@
   "localeConfigs": {
     "de": {
       "label": "Deutsch",
-      "direction": "ltr"
+      "direction": "ltr",
+      "htmlLang": "de"
     },
     "en": {
       "label": "English",
-      "direction": "ltr"
+      "direction": "ltr",
+      "htmlLang": "en"
     }
   }
 }

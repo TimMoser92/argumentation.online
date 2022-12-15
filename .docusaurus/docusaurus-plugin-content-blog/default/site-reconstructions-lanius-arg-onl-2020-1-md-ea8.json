@@ -33,6 +33,28 @@
       "email": "david.lanius@kit.edu"
     }
   ],
+  "frontMatter": {
+    "title": "Robert Nozick -- Das \"Experience Machine\"-Argument gegen den Hedonismus",
+    "abstract": "Nozicks \"Experience Machine\" ist ein berühmtes Gedankenexperiment, in dem man die Wahl hat, sich an eine Maschine anzuschließen, um darin simulierte Glückserfahrungen zu machen. Es soll zeigen, dass sich niemand an eine solche Maschine anschließen würde und deshalb der Hedonismus falsch ist.",
+    "description": "Nozicks \"Experience Machine\" ist ein berühmtes Gedankenexperiment, in dem man die Wahl hat, sich an eine Maschine anzuschließen, um darin simulierte Glückserfahrungen zu machen. Es soll zeigen, dass sich niemand an eine solche Maschine anschließen würde und deshalb der Hedonismus falsch ist.",
+    "date": "2020-04-01T00:00:00.000Z",
+    "authors": [
+      {
+        "name": "David Lanius",
+        "affiliation": "KIT",
+        "email": "david.lanius@kit.edu"
+      }
+    ],
+    "tags": [
+      "Nozick",
+      "Hedonismus",
+      "Moralphilosophie",
+      "informell"
+    ],
+    "lang": "de",
+    "id": "Lanius_ArgOnl-2020-1",
+    "layout": "layouts/post.njk"
+  },
   "prevItem": {
     "title": "David Hume: Das Ich",
     "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-02"

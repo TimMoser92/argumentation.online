@@ -1,5 +1,8 @@
 {
   "type": "mdx",
   "permalink": "/en/about-arguments",
-  "source": "@site/i18n/en/docusaurus-plugin-content-pages/about-arguments.md"
+  "source": "@site/i18n/en/docusaurus-plugin-content-pages/about-arguments.md",
+  "title": "FAQ Arguments and Argument Analysis",
+  "description": "What is an argument?",
+  "frontMatter": {}
 }

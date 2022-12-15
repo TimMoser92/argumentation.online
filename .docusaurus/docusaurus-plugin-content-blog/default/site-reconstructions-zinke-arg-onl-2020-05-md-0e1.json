@@ -37,6 +37,29 @@
       "email": "alexandra.zinke@uni-tuebingen.de"
     }
   ],
+  "frontMatter": {
+    "title": "Leibniz: Lebewesen",
+    "abstract": "Leibniz unterscheidet zwei Arten von Maschinen: (i) Maschinen, die auch aus Teilen zusammengesetzt sind, welche selbst keine Maschinen sind, und (ii) Maschinen, die keine Teile enthalten, die selbst keine Maschine sind. Menschen können nur Maschinen der ersten Art schaffen, Gott auch Maschinen der zweiten Art. Alle Lebewesen sind nach Leibniz Maschinen der zweiten Art, d.h. \"natürliche Maschinen.\"",
+    "description": "Leibniz unterscheidet zwei Arten von Maschinen: (i) Maschinen, die auch aus Teilen zusammengesetzt sind, welche selbst keine Maschinen sind, und (ii) Maschinen, die keine Teile enthalten, die selbst keine Maschine sind. Menschen können nur Maschinen der ersten Art schaffen, Gott auch Maschinen der zweiten Art. Alle Lebewesen sind nach Leibniz Maschinen der zweiten Art, d.h. \"natürliche Maschinen.\"",
+    "date": "2020-04-04T00:00:00.000Z",
+    "authors": [
+      {
+        "name": "Alexandra Zinke",
+        "affiliation": "Univesität Tübingen",
+        "email": "alexandra.zinke@uni-tuebingen.de"
+      }
+    ],
+    "tags": [
+      "Leibniz",
+      "Lebewesen",
+      "Maschinen",
+      "Gott",
+      "Philosophie"
+    ],
+    "lang": "de",
+    "id": "Zinke_ArgOnl-2020-05",
+    "layout": "layouts/post.njk"
+  },
   "prevItem": {
     "title": "Immanuel Kant: Die Welt hat keinen Anfang in der Zeit",
     "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-04"

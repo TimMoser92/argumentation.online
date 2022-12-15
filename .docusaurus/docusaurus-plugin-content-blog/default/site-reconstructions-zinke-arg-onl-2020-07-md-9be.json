@@ -33,6 +33,28 @@
       "email": "alexandra.zinke@uni-tuebingen.de"
     }
   ],
+  "frontMatter": {
+    "title": "Anselm: Gottesbeweis (Proslogion 2)",
+    "abstract": "Anselm v. Canterburys Überlegung aus dem 11. Jh. ist der vielleicht bekannteste Versuch eines Gottesbeweises. In der Literatur finden sich zahlreiche, oft fein ausgearbeitete Rekonstruktions- und Formalisierungsvorschläge. Wir stellen hier lediglich eine grobe Rekonstruktion vor und verweisen den Leser auf weiterführende Literatur.",
+    "description": "Anselm v. Canterburys Überlegung aus dem 11. Jh. ist der vielleicht bekannteste Versuch eines Gottesbeweises. In der Literatur finden sich zahlreiche, oft fein ausgearbeitete Rekonstruktions- und Formalisierungsvorschläge. Wir stellen hier lediglich eine grobe Rekonstruktion vor und verweisen den Leser auf weiterführende Literatur.",
+    "date": "2020-04-04T00:00:00.000Z",
+    "authors": [
+      {
+        "name": "Alexandra Zinke",
+        "affiliation": "Universität Tübingen",
+        "email": "alexandra.zinke@uni-tuebingen.de"
+      }
+    ],
+    "tags": [
+      "Anselm",
+      "Gottesbeweis",
+      "Existenz",
+      "Philosophie"
+    ],
+    "lang": "de",
+    "id": "Zinke_ArgOnl-2020-07",
+    "layout": "layouts/post.njk"
+  },
   "prevItem": {
     "title": "Leibniz: Der Raum ist nichts absolut Seiendes",
     "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-06"

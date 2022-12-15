@@ -29,6 +29,25 @@
       "email": "alexandra.zinke@uni-tuebingen.de"
     }
   ],
+  "frontMatter": {
+    "title": "David Hume: Das Ich",
+    "abstract": "Rekonstruiert wird eine viel diskutierte Passage aus David Humes \"A Treatise of Human Nature\", in welcher Hume sich gegen die zu seiner Zeit weit verbreitete Auffassung (z.B. bei Descartes, Locke, Berkeley) wendet, dass wir das eigene Selbst introspektiv wahrnehmen können.",
+    "description": "Rekonstruiert wird eine viel diskutierte Passage aus David Humes \"A Treatise of Human Nature\", in welcher Hume sich gegen die zu seiner Zeit weit verbreitete Auffassung (z.B. bei Descartes, Locke, Berkeley) wendet, dass wir das eigene Selbst introspektiv wahrnehmen können.",
+    "date": "2020-04-03T00:00:00.000Z",
+    "authors": [
+      {
+        "name": "Alexandra Zinke",
+        "affiliation": "Universität Tübingen",
+        "email": "alexandra.zinke@uni-tuebingen.de"
+      }
+    ],
+    "tags": [
+      "Hume",
+      "das Ich",
+      "Philosophie des Geistes"
+    ],
+    "lang": "de"
+  },
   "prevItem": {
     "title": "Anselm: Gottesbeweis (Proslogion 2)",
     "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-07"

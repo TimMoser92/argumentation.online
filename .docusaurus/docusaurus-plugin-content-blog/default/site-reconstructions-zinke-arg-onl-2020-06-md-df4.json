@@ -29,6 +29,27 @@
       "email": "alexandra.zinke@uni-tuebingen.de"
     }
   ],
+  "frontMatter": {
+    "title": "Leibniz: Der Raum ist nichts absolut Seiendes",
+    "abstract": "Gemäß der \"absoluten Konzeption des Raumes\", ist der Raum etwas unabhängig Existierendes, eine Substanz, ein \"Behälter\" der Dinge, welcher von diesen nicht verändert wird. Diese Vorstellung wird gewöhnlich Newton zugeschrieben. Leibniz vertritt hingegen eine \"relationale Konzeption des Raumes\", in welcher der Raum nicht unabhängig von den Dingen existiert. Wir rekonstruieren ein Argument von Leibniz gegen die absolute Konzeption des Raumes.",
+    "description": "Gemäß der \"absoluten Konzeption des Raumes\", ist der Raum etwas unabhängig Existierendes, eine Substanz, ein \"Behälter\" der Dinge, welcher von diesen nicht verändert wird. Diese Vorstellung wird gewöhnlich Newton zugeschrieben. Leibniz vertritt hingegen eine \"relationale Konzeption des Raumes\", in welcher der Raum nicht unabhängig von den Dingen existiert. Wir rekonstruieren ein Argument von Leibniz gegen die absolute Konzeption des Raumes.",
+    "date": "2020-04-04T00:00:00.000Z",
+    "authors": [
+      {
+        "name": "Alexandra Zinke",
+        "affiliation": "Universität Tübingen",
+        "email": "alexandra.zinke@uni-tuebingen.de"
+      }
+    ],
+    "tags": [
+      "Leibniz",
+      "Raum",
+      "Philosophie"
+    ],
+    "lang": "de",
+    "id": "Zinke_ArgOnl-2020-06",
+    "layout": "layouts/post.njk"
+  },
   "prevItem": {
     "title": "Leibniz: Lebewesen",
     "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-05"

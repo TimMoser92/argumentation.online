@@ -33,6 +33,28 @@
       "email": "alexandra.zinke@uni-tuebingen.de"
     }
   ],
+  "frontMatter": {
+    "title": "Immanuel Kant: Die Welt hat keinen Anfang in der Zeit",
+    "abstract": "Rekonstruiert wird Kants Argument dafür, dass die Welt keinen Anfang in der Zeit hat. Zusammen mit Kants Argument dafür, dass die Welt einen Anfang in der Zeit hat, bildet es die erste Antinomie der reinen Vernunft.",
+    "description": "Rekonstruiert wird Kants Argument dafür, dass die Welt keinen Anfang in der Zeit hat. Zusammen mit Kants Argument dafür, dass die Welt einen Anfang in der Zeit hat, bildet es die erste Antinomie der reinen Vernunft.",
+    "date": "2020-04-04T00:00:00.000Z",
+    "authors": [
+      {
+        "name": "Alexandra Zinke",
+        "affiliation": "Universität Tübingen",
+        "email": "alexandra.zinke@uni-tuebingen.de"
+      }
+    ],
+    "tags": [
+      "Kant",
+      "Antinomie",
+      "Zeit",
+      "Philosophie"
+    ],
+    "lang": "de",
+    "id": "Zinke_ArgOnl-2020-04",
+    "layout": "layouts/post.njk"
+  },
   "prevItem": {
     "title": "Immanuel Kant: Die Welt hat einen Anfang in der Zeit",
     "permalink": "/en/reconstructions/Zinke_ArgOnl-2020-03"

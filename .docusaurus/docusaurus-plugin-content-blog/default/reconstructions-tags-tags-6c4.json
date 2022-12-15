@@ -1,222 +1,222 @@
 {
-  "/reconstructions/tags/jackson": {
+  "Jackson": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/jackson",
     "name": "Jackson",
     "count": 1,
     "permalink": "/reconstructions/tags/jackson"
   },
-  "/reconstructions/tags/mary": {
+  "Mary": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/mary",
     "name": "Mary",
     "count": 1,
     "permalink": "/reconstructions/tags/mary"
   },
-  "/reconstructions/tags/physikalismus": {
+  "Physikalismus": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/physikalismus",
     "name": "Physikalismus",
     "count": 1,
     "permalink": "/reconstructions/tags/physikalismus"
   },
-  "/reconstructions/tags/philosophie-des-geistes": {
+  "Philosophie des Geistes": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/philosophie-des-geistes",
     "name": "Philosophie des Geistes",
     "count": 2,
     "permalink": "/reconstructions/tags/philosophie-des-geistes"
   },
-  "/reconstructions/tags/nietzsche": {
+  "Nietzsche": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/nietzsche",
     "name": "Nietzsche",
     "count": 1,
     "permalink": "/reconstructions/tags/nietzsche"
   },
-  "/reconstructions/tags/logik": {
+  "Logik": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/logik",
     "name": "Logik",
     "count": 1,
     "permalink": "/reconstructions/tags/logik"
   },
-  "/reconstructions/tags/philosophie": {
+  "Philosophie": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/philosophie",
     "name": "Philosophie",
     "count": 6,
     "permalink": "/reconstructions/tags/philosophie"
   },
-  "/reconstructions/tags/satz-vom-widerspruch": {
+  "Satz vom Widerspruch": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/satz-vom-widerspruch",
     "name": "Satz vom Widerspruch",
     "count": 1,
     "permalink": "/reconstructions/tags/satz-vom-widerspruch"
   },
-  "/reconstructions/tags/aristoteles": {
+  "Aristoteles": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/aristoteles",
     "name": "Aristoteles",
     "count": 1,
     "permalink": "/reconstructions/tags/aristoteles"
   },
-  "/reconstructions/tags/modus-tollens": {
+  "Modus Tollens": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/modus-tollens",
     "name": "Modus Tollens",
     "count": 1,
     "permalink": "/reconstructions/tags/modus-tollens"
   },
-  "/reconstructions/tags/modus-tollendo-tollens": {
+  "Modus Tollendo Tollens": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/modus-tollendo-tollens",
     "name": "Modus Tollendo Tollens",
     "count": 1,
     "permalink": "/reconstructions/tags/modus-tollendo-tollens"
   },
-  "/reconstructions/tags/disjunktiver-syllogismus": {
+  "Disjunktiver Syllogismus": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/disjunktiver-syllogismus",
     "name": "Disjunktiver Syllogismus",
     "count": 1,
     "permalink": "/reconstructions/tags/disjunktiver-syllogismus"
   },
-  "/reconstructions/tags/adjunktiver-syllogismus": {
+  "Adjunktiver Syllogismus": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/adjunktiver-syllogismus",
     "name": "Adjunktiver Syllogismus",
     "count": 1,
     "permalink": "/reconstructions/tags/adjunktiver-syllogismus"
   },
-  "/reconstructions/tags/ausschlussprinzip": {
+  "Ausschlussprinzip": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/ausschlussprinzip",
     "name": "Ausschlussprinzip",
     "count": 1,
     "permalink": "/reconstructions/tags/ausschlussprinzip"
   },
-  "/reconstructions/tags/modus-tollendo-ponens": {
+  "Modus Tollendo Ponens": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/modus-tollendo-ponens",
     "name": "Modus Tollendo Ponens",
     "count": 1,
     "permalink": "/reconstructions/tags/modus-tollendo-ponens"
   },
-  "/reconstructions/tags/kant": {
+  "Kant": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/kant",
     "name": "Kant",
     "count": 2,
     "permalink": "/reconstructions/tags/kant"
   },
-  "/reconstructions/tags/antinomie": {
+  "Antinomie": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/antinomie",
     "name": "Antinomie",
     "count": 2,
     "permalink": "/reconstructions/tags/antinomie"
   },
-  "/reconstructions/tags/zeit": {
+  "Zeit": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/zeit",
     "name": "Zeit",
     "count": 2,
     "permalink": "/reconstructions/tags/zeit"
   },
-  "/reconstructions/tags/leibniz": {
+  "Leibniz": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/leibniz",
     "name": "Leibniz",
     "count": 2,
     "permalink": "/reconstructions/tags/leibniz"
   },
-  "/reconstructions/tags/lebewesen": {
+  "Lebewesen": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/lebewesen",
     "name": "Lebewesen",
     "count": 1,
     "permalink": "/reconstructions/tags/lebewesen"
   },
-  "/reconstructions/tags/maschinen": {
+  "Maschinen": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/maschinen",
     "name": "Maschinen",
     "count": 1,
     "permalink": "/reconstructions/tags/maschinen"
   },
-  "/reconstructions/tags/gott": {
+  "Gott": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/gott",
     "name": "Gott",
     "count": 1,
     "permalink": "/reconstructions/tags/gott"
   },
-  "/reconstructions/tags/raum": {
+  "Raum": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/raum",
     "name": "Raum",
     "count": 1,
     "permalink": "/reconstructions/tags/raum"
   },
-  "/reconstructions/tags/anselm": {
+  "Anselm": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/anselm",
     "name": "Anselm",
     "count": 1,
     "permalink": "/reconstructions/tags/anselm"
   },
-  "/reconstructions/tags/gottesbeweis": {
+  "Gottesbeweis": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/gottesbeweis",
     "name": "Gottesbeweis",
     "count": 1,
     "permalink": "/reconstructions/tags/gottesbeweis"
   },
-  "/reconstructions/tags/existenz": {
+  "Existenz": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/existenz",
     "name": "Existenz",
     "count": 1,
     "permalink": "/reconstructions/tags/existenz"
   },
-  "/reconstructions/tags/hume": {
+  "Hume": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/hume",
     "name": "Hume",
     "count": 1,
     "permalink": "/reconstructions/tags/hume"
   },
-  "/reconstructions/tags/das-ich": {
+  "das Ich": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/das-ich",
     "name": "das Ich",
     "count": 1,
     "permalink": "/reconstructions/tags/das-ich"
   },
-  "/reconstructions/tags/nozick": {
+  "Nozick": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/nozick",
     "name": "Nozick",
     "count": 1,
     "permalink": "/reconstructions/tags/nozick"
   },
-  "/reconstructions/tags/hedonismus": {
+  "Hedonismus": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/hedonismus",
     "name": "Hedonismus",
     "count": 1,
     "permalink": "/reconstructions/tags/hedonismus"
   },
-  "/reconstructions/tags/moralphilosophie": {
+  "Moralphilosophie": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/moralphilosophie",
     "name": "Moralphilosophie",
     "count": 1,
     "permalink": "/reconstructions/tags/moralphilosophie"
   },
-  "/reconstructions/tags/informell": {
+  "informell": {
     "allTagsPath": "/reconstructions/tags",
     "slug": "/reconstructions/tags/informell",
     "name": "informell",

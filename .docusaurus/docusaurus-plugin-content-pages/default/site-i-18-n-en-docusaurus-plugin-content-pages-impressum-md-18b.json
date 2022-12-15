@@ -1,5 +1,8 @@
 {
   "type": "mdx",
   "permalink": "/en/impressum",
-  "source": "@site/i18n/en/docusaurus-plugin-content-pages/impressum.md"
+  "source": "@site/i18n/en/docusaurus-plugin-content-pages/impressum.md",
+  "title": "Impressum",
+  "description": "Prof. Dr. Gregor Betz",
+  "frontMatter": {}
 }

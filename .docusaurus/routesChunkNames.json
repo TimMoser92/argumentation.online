@@ -69,7 +69,7 @@
     "sidebar": "814f3328",
     "tags": "b88732bb"
   },
-  "/en/reconstructions/tags/adjunktiver-syllogismus-6c2": {
+  "/en/reconstructions/tags/adjunktiver-syllogismus-dbd": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -77,9 +77,10 @@
         "content": "a843eb2d"
       }
     ],
-    "metadata": "b8d8d34e"
+    "metadata": "b8d8d34e",
+    "listMetadata": "b3fbc257"
   },
-  "/en/reconstructions/tags/anselm-045": {
+  "/en/reconstructions/tags/anselm-b81": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -87,9 +88,10 @@
         "content": "9f6c9c98"
       }
     ],
-    "metadata": "e5d90913"
+    "metadata": "e5d90913",
+    "listMetadata": "61afdf5a"
   },
-  "/en/reconstructions/tags/antinomie-7e5": {
+  "/en/reconstructions/tags/antinomie-b63": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -100,9 +102,10 @@
         "content": "03c02b68"
       }
     ],
-    "metadata": "76852309"
+    "metadata": "76852309",
+    "listMetadata": "e4a2deed"
   },
-  "/en/reconstructions/tags/aristoteles-0d3": {
+  "/en/reconstructions/tags/aristoteles-14f": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -110,9 +113,10 @@
         "content": "a843eb2d"
       }
     ],
-    "metadata": "aa79a240"
+    "metadata": "aa79a240",
+    "listMetadata": "551118d6"
   },
-  "/en/reconstructions/tags/ausschlussprinzip-cd7": {
+  "/en/reconstructions/tags/ausschlussprinzip-542": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -120,9 +124,10 @@
         "content": "a843eb2d"
       }
     ],
-    "metadata": "12d75f49"
+    "metadata": "12d75f49",
+    "listMetadata": "83c34cbb"
   },
-  "/en/reconstructions/tags/das-ich-9de": {
+  "/en/reconstructions/tags/das-ich-7ec": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -130,9 +135,10 @@
         "content": "a834350f"
       }
     ],
-    "metadata": "19ca3bf0"
+    "metadata": "19ca3bf0",
+    "listMetadata": "e86bb9e3"
   },
-  "/en/reconstructions/tags/disjunktiver-syllogismus-c91": {
+  "/en/reconstructions/tags/disjunktiver-syllogismus-96a": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -140,9 +146,10 @@
         "content": "a843eb2d"
       }
     ],
-    "metadata": "bc9f4889"
+    "metadata": "bc9f4889",
+    "listMetadata": "ebe51696"
   },
-  "/en/reconstructions/tags/existenz-cd8": {
+  "/en/reconstructions/tags/existenz-ddf": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -150,9 +157,10 @@
         "content": "9f6c9c98"
       }
     ],
-    "metadata": "3291ce9e"
+    "metadata": "3291ce9e",
+    "listMetadata": "a81b529c"
   },
-  "/en/reconstructions/tags/gott-634": {
+  "/en/reconstructions/tags/gott-6c3": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -160,9 +168,10 @@
         "content": "54e974df"
       }
     ],
-    "metadata": "156350b8"
+    "metadata": "156350b8",
+    "listMetadata": "991434d7"
   },
-  "/en/reconstructions/tags/gottesbeweis-dff": {
+  "/en/reconstructions/tags/gottesbeweis-a8c": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -170,9 +179,10 @@
         "content": "9f6c9c98"
       }
     ],
-    "metadata": "0a5df45a"
+    "metadata": "0a5df45a",
+    "listMetadata": "492eb2ea"
   },
-  "/en/reconstructions/tags/hedonismus-f88": {
+  "/en/reconstructions/tags/hedonismus-685": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -180,9 +190,10 @@
         "content": "933c7e43"
       }
     ],
-    "metadata": "87f1c70c"
+    "metadata": "87f1c70c",
+    "listMetadata": "c2830885"
   },
-  "/en/reconstructions/tags/hume-6d9": {
+  "/en/reconstructions/tags/hume-63d": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -190,9 +201,10 @@
         "content": "a834350f"
       }
     ],
-    "metadata": "09856e27"
+    "metadata": "09856e27",
+    "listMetadata": "68b11766"
   },
-  "/en/reconstructions/tags/informell-4d5": {
+  "/en/reconstructions/tags/informell-612": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -200,9 +212,10 @@
         "content": "933c7e43"
       }
     ],
-    "metadata": "8a476e62"
+    "metadata": "8a476e62",
+    "listMetadata": "1843a479"
   },
-  "/en/reconstructions/tags/jackson-e77": {
+  "/en/reconstructions/tags/jackson-a5e": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -210,9 +223,10 @@
         "content": "925e9d7d"
       }
     ],
-    "metadata": "bbcc86bf"
+    "metadata": "bbcc86bf",
+    "listMetadata": "28e0d5a2"
   },
-  "/en/reconstructions/tags/kant-ed1": {
+  "/en/reconstructions/tags/kant-e6a": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -223,9 +237,10 @@
         "content": "03c02b68"
       }
     ],
-    "metadata": "a49be98a"
+    "metadata": "a49be98a",
+    "listMetadata": "59c6ae57"
   },
-  "/en/reconstructions/tags/lebewesen-2de": {
+  "/en/reconstructions/tags/lebewesen-6d5": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -233,9 +248,10 @@
         "content": "54e974df"
       }
     ],
-    "metadata": "ce3227ce"
+    "metadata": "ce3227ce",
+    "listMetadata": "3aa78145"
   },
-  "/en/reconstructions/tags/leibniz-637": {
+  "/en/reconstructions/tags/leibniz-2e9": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -246,9 +262,10 @@
         "content": "103d4f25"
       }
     ],
-    "metadata": "ed5e0c2e"
+    "metadata": "ed5e0c2e",
+    "listMetadata": "896c0e6b"
   },
-  "/en/reconstructions/tags/logik-43c": {
+  "/en/reconstructions/tags/logik-489": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -256,9 +273,10 @@
         "content": "a843eb2d"
       }
     ],
-    "metadata": "36ff3c84"
+    "metadata": "36ff3c84",
+    "listMetadata": "c3ec7baa"
   },
-  "/en/reconstructions/tags/mary-148": {
+  "/en/reconstructions/tags/mary-d37": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -266,9 +284,10 @@
         "content": "925e9d7d"
       }
     ],
-    "metadata": "824a9659"
+    "metadata": "824a9659",
+    "listMetadata": "1caffd44"
   },
-  "/en/reconstructions/tags/maschinen-93b": {
+  "/en/reconstructions/tags/maschinen-b32": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -276,9 +295,10 @@
         "content": "54e974df"
       }
     ],
-    "metadata": "dbaecb0f"
+    "metadata": "dbaecb0f",
+    "listMetadata": "51318549"
   },
-  "/en/reconstructions/tags/modus-tollendo-ponens-35a": {
+  "/en/reconstructions/tags/modus-tollendo-ponens-be9": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -286,9 +306,10 @@
         "content": "a843eb2d"
       }
     ],
-    "metadata": "3435ee4b"
+    "metadata": "3435ee4b",
+    "listMetadata": "5819104c"
   },
-  "/en/reconstructions/tags/modus-tollendo-tollens-2ff": {
+  "/en/reconstructions/tags/modus-tollendo-tollens-fb3": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -296,9 +317,10 @@
         "content": "a843eb2d"
       }
     ],
-    "metadata": "728b4e23"
+    "metadata": "728b4e23",
+    "listMetadata": "e452d9ef"
   },
-  "/en/reconstructions/tags/modus-tollens-29b": {
+  "/en/reconstructions/tags/modus-tollens-508": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -306,9 +328,10 @@
         "content": "a843eb2d"
       }
     ],
-    "metadata": "dabb87e3"
+    "metadata": "dabb87e3",
+    "listMetadata": "c7f9c21a"
   },
-  "/en/reconstructions/tags/moralphilosophie-a97": {
+  "/en/reconstructions/tags/moralphilosophie-2bf": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -316,9 +339,10 @@
         "content": "933c7e43"
       }
     ],
-    "metadata": "018afb82"
+    "metadata": "018afb82",
+    "listMetadata": "946d94bb"
   },
-  "/en/reconstructions/tags/nietzsche-d09": {
+  "/en/reconstructions/tags/nietzsche-e4e": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -326,9 +350,10 @@
         "content": "a843eb2d"
       }
     ],
-    "metadata": "eed29351"
+    "metadata": "eed29351",
+    "listMetadata": "c325915d"
   },
-  "/en/reconstructions/tags/nozick-3e3": {
+  "/en/reconstructions/tags/nozick-19e": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -336,9 +361,10 @@
         "content": "933c7e43"
       }
     ],
-    "metadata": "db0acdbf"
+    "metadata": "db0acdbf",
+    "listMetadata": "15233e72"
   },
-  "/en/reconstructions/tags/philosophie-140": {
+  "/en/reconstructions/tags/philosophie-e4d": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -361,9 +387,10 @@
         "content": "9f6c9c98"
       }
     ],
-    "metadata": "a577fcbe"
+    "metadata": "a577fcbe",
+    "listMetadata": "ea134a2a"
   },
-  "/en/reconstructions/tags/philosophie-des-geistes-093": {
+  "/en/reconstructions/tags/philosophie-des-geistes-b32": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -374,9 +401,10 @@
         "content": "a834350f"
       }
     ],
-    "metadata": "5ead6cfa"
+    "metadata": "5ead6cfa",
+    "listMetadata": "8bcc5bd3"
   },
-  "/en/reconstructions/tags/physikalismus-351": {
+  "/en/reconstructions/tags/physikalismus-47e": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -384,9 +412,10 @@
         "content": "925e9d7d"
       }
     ],
-    "metadata": "857fc848"
+    "metadata": "857fc848",
+    "listMetadata": "16924590"
   },
-  "/en/reconstructions/tags/raum-a83": {
+  "/en/reconstructions/tags/raum-116": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -394,9 +423,10 @@
         "content": "103d4f25"
       }
     ],
-    "metadata": "b2b80d27"
+    "metadata": "b2b80d27",
+    "listMetadata": "5433ccc3"
   },
-  "/en/reconstructions/tags/satz-vom-widerspruch-85b": {
+  "/en/reconstructions/tags/satz-vom-widerspruch-10b": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -404,9 +434,10 @@
         "content": "a843eb2d"
       }
     ],
-    "metadata": "52df44ce"
+    "metadata": "52df44ce",
+    "listMetadata": "a8f1871b"
   },
-  "/en/reconstructions/tags/zeit-542": {
+  "/en/reconstructions/tags/zeit-e0e": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -417,7 +448,8 @@
         "content": "03c02b68"
       }
     ],
-    "metadata": "ba0eab4b"
+    "metadata": "ba0eab4b",
+    "listMetadata": "2dfe84ea"
   },
   "/en/reconstructions/Zinke_ArgOnl-2020-02-191": {
     "component": "ccc49370",
@@ -449,8 +481,8 @@
     "sidebar": "814f3328",
     "content": "9be20643"
   },
-  "/en/search-bd2": {
-    "component": "d506c3e1"
+  "/en/search-730": {
+    "component": "1a4e3797"
   },
   "/en/the-project-284": {
     "component": "1f391b9e",

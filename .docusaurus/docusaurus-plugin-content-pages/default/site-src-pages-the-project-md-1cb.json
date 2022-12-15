@@ -1,5 +1,10 @@
 {
   "type": "mdx",
   "permalink": "/the-project",
-  "source": "@site/src/pages/the-project.md"
+  "source": "@site/src/pages/the-project.md",
+  "title": "Über das Projekt",
+  "description": "argumentation.online sammelt, begutachtet und veröffentlicht hochwertige Argumentrekonstruktionen.",
+  "frontMatter": {
+    "title": "Über das Projekt"
+  }
 }

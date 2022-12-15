@@ -1,5 +1,10 @@
 {
   "type": "mdx",
   "permalink": "/en/the-project",
-  "source": "@site/i18n/en/docusaurus-plugin-content-pages/the-project.md"
+  "source": "@site/i18n/en/docusaurus-plugin-content-pages/the-project.md",
+  "title": "About the Project",
+  "description": "argumentation.online collects, evaluates, and publishes high-quality argument reconstructions.",
+  "frontMatter": {
+    "title": "About the Project"
+  }
 }
