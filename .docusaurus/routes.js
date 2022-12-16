@@ -239,7 +239,7 @@ export default [
   },
   {
     path: '/en/search',
-    component: ComponentCreator('/en/search', '3b0'),
+    component: ComponentCreator('/en/search', '4e0'),
     exact: true
   },
   {

@@ -1,0 +1,16 @@
+import lunr from "/home/tim/projects/argumentation.online/node_modules/lunr/lunr.js";
+require("/home/tim/projects/argumentation.online/node_modules/lunr-languages/lunr.stemmer.support.js")(lunr);
+require("/home/tim/projects/argumentation.online/node_modules/lunr-languages/lunr.de.js")(lunr);
+require("/home/tim/projects/argumentation.online/node_modules/lunr-languages/lunr.multi.js")(lunr);
+export const language = ["en","de"];
+export const removeDefaultStopWordFilter = false;
+export const removeDefaultStemmer = false;
+export const Mark = null;
+export const searchIndexUrl = "search-index.json?_=68a67f95";
+export const searchResultLimits = 8;
+export const searchResultContextMaxLength = 50;
+export const explicitSearchResultPath = false;
+export const searchBarShortcut = true;
+export const searchBarShortcutHint = true;
+export const docsPluginIdForPreferredVersion = undefined;
+export const indexDocs = false;

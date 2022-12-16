@@ -320,14 +320,6 @@ export default {
         }
       ]
     },
-    "algolia": {
-      "apiKey": "YOUR_API_KEY",
-      "indexName": "YOUR_INDEX_NAME",
-      "contextualSearch": true,
-      "appId": "YOUR_APP_ID",
-      "searchParameters": {},
-      "searchPagePath": "search"
-    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
@@ -346,6 +338,21 @@ export default {
       "maxHeadingLevel": 3
     }
   },
+  "themes": [
+    [
+      "/home/tim/projects/argumentation.online/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      {
+        "hashed": true,
+        "blogRouteBasePath": "/reconstructions",
+        "language": [
+          "en",
+          "de"
+        ],
+        "blogDir": "reconstructions",
+        "indexDocs": false
+      }
+    ]
+  ],
   "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
@@ -353,7 +360,6 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "stylesheets": [],
   "clientModules": [],
