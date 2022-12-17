@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[4922],{7342:n=>{n.exports=JSON.parse('{"label":"Moralphilosophie","permalink":"/argumentation.online/en/reconstructions/tags/moralphilosophie","allTagsPath":"/argumentation.online/en/reconstructions/tags","count":1}')}}]);

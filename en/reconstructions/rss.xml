@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>argumentation.online Blog</title>
-        <link>https://argumentation.online/en/reconstructions</link>
+        <link>https://argumentation.online/argumentation.online/en/reconstructions</link>
         <description>argumentation.online Blog</description>
         <lastBuildDate>Fri, 14 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Frank Jackson: Mary]]></title>
-            <link>https://argumentation.online/en/reconstructions/Strobach_ArgOnl-2022-01</link>
+            <link>https://argumentation.online/argumentation.online/en/reconstructions/Strobach_ArgOnl-2022-01</link>
             <guid>Strobach_ArgOnl-2022-01</guid>
             <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Weil der australische Philosoph Frank Jackson der Hauptfigur einer kleinen Geschichte den Allerweltsnamen „Mary“ gegeben hat, ist das Argument, das diese Geschichte illustrieren soll, als Mary-Argument (oder, kürzer, Mary) bekannt. Es ist eines der berühmtesten Argumente in der Philosophie des Geistes (philosophy of mind) geworden, obwohl Jackson es selbst später skeptisch gesehen hat. Es ist ein Argument gegen eine Position, die den Namen „Physikalismus“ („physicalism“) trägt. Aus dem Argument geht nebenbei recht gut verständlich hervor, worin diese Position besteht.]]></description>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[Friedrich Nietzsche: Fragment über die Logik]]></title>
-            <link>https://argumentation.online/en/reconstructions/Loewenstein_ArgOnl-2021-01</link>
+            <link>https://argumentation.online/argumentation.online/en/reconstructions/Loewenstein_ArgOnl-2021-01</link>
             <guid>Loewenstein_ArgOnl-2021-01</guid>
             <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Dieses Fragment aus dem Nachlass Friedrich Nietzsches behandelt die Frage nach dem Status des Satzes vom Widerspruch im Besonderen und der Logik im Allgemeinen. Er argumentiert für die Auffassung, dass die Logik keine deskritive, sondern eine normative Rolle spielt.]]></description>
@@ -52,7 +52,7 @@ Kurz, die Frage steht offen: sind die logischen Axiome dem Wirklichen adäquat, 
         </item>
         <item>
             <title><![CDATA[Immanuel Kant: Die Welt hat einen Anfang in der Zeit]]></title>
-            <link>https://argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-03</link>
+            <link>https://argumentation.online/argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-03</link>
             <guid>Zinke_ArgOnl-2020-03</guid>
             <pubDate>Sat, 04 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Rekonstruiert wird Kants Argument für die These, dass die Welt einen Anfang in der Zeit hat. Zusammen mit Kants Argument für die zugehörige Antithese -- dass die Welt keinen Anfang in der Zeit hat, -- bildet es die erste Antinomie der reinen Vernunft. (Wir ignorieren hier die entsprechenden Behauptungen für die Begrenztheit/Unbegrenztheit des Raumes.)]]></description>
@@ -66,7 +66,7 @@ Prämisse 5 ist in der Textstelle nicht explizit. Eine Diskussion des Argumentes
         </item>
         <item>
             <title><![CDATA[Immanuel Kant: Die Welt hat keinen Anfang in der Zeit]]></title>
-            <link>https://argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-04</link>
+            <link>https://argumentation.online/argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-04</link>
             <guid>Zinke_ArgOnl-2020-04</guid>
             <pubDate>Sat, 04 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Rekonstruiert wird Kants Argument dafür, dass die Welt keinen Anfang in der Zeit hat. Zusammen mit Kants Argument dafür, dass die Welt einen Anfang in der Zeit hat, bildet es die erste Antinomie der reinen Vernunft.]]></description>
@@ -79,7 +79,7 @@ Prämisse 5 ist in der Textstelle nicht explizit. Eine Diskussion des Argumentes
         </item>
         <item>
             <title><![CDATA[Leibniz: Lebewesen]]></title>
-            <link>https://argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-05</link>
+            <link>https://argumentation.online/argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-05</link>
             <guid>Zinke_ArgOnl-2020-05</guid>
             <pubDate>Sat, 04 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Leibniz unterscheidet zwei Arten von Maschinen: (i) Maschinen, die auch aus Teilen zusammengesetzt sind, welche selbst keine Maschinen sind, und (ii) Maschinen, die keine Teile enthalten, die selbst keine Maschine sind. Menschen können nur Maschinen der ersten Art schaffen, Gott auch Maschinen der zweiten Art. Alle Lebewesen sind nach Leibniz Maschinen der zweiten Art, d.h. "natürliche Maschinen."]]></description>
@@ -93,7 +93,7 @@ Prämisse 5 ist in der Textstelle nicht explizit. Eine Diskussion des Argumentes
         </item>
         <item>
             <title><![CDATA[Leibniz: Der Raum ist nichts absolut Seiendes]]></title>
-            <link>https://argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-06</link>
+            <link>https://argumentation.online/argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-06</link>
             <guid>Zinke_ArgOnl-2020-06</guid>
             <pubDate>Sat, 04 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Gemäß der "absoluten Konzeption des Raumes", ist der Raum etwas unabhängig Existierendes, eine Substanz, ein "Behälter" der Dinge, welcher von diesen nicht verändert wird. Diese Vorstellung wird gewöhnlich Newton zugeschrieben. Leibniz vertritt hingegen eine "relationale Konzeption des Raumes", in welcher der Raum nicht unabhängig von den Dingen existiert. Wir rekonstruieren ein Argument von Leibniz gegen die absolute Konzeption des Raumes.]]></description>
@@ -106,7 +106,7 @@ Prämisse 5 ist in der Textstelle nicht explizit. Eine Diskussion des Argumentes
         </item>
         <item>
             <title><![CDATA[Anselm: Gottesbeweis (Proslogion 2)]]></title>
-            <link>https://argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-07</link>
+            <link>https://argumentation.online/argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-07</link>
             <guid>Zinke_ArgOnl-2020-07</guid>
             <pubDate>Sat, 04 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Anselm v. Canterburys Überlegung aus dem 11. Jh. ist der vielleicht bekannteste Versuch eines Gottesbeweises. In der Literatur finden sich zahlreiche, oft fein ausgearbeitete Rekonstruktions- und Formalisierungsvorschläge. Wir stellen hier lediglich eine grobe Rekonstruktion vor und verweisen den Leser auf weiterführende Literatur.]]></description>
@@ -124,7 +124,7 @@ Plantinga, A., 1967, <em>God and Other Minds</em>, Ithaca: Cornell University Pr
         </item>
         <item>
             <title><![CDATA[David Hume: Das Ich]]></title>
-            <link>https://argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-02</link>
+            <link>https://argumentation.online/argumentation.online/en/reconstructions/Zinke_ArgOnl-2020-02</link>
             <guid>/Zinke_ArgOnl-2020-02</guid>
             <pubDate>Fri, 03 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Rekonstruiert wird eine viel diskutierte Passage aus David Humes "A Treatise of Human Nature", in welcher Hume sich gegen die zu seiner Zeit weit verbreitete Auffassung (z.B. bei Descartes, Locke, Berkeley) wendet, dass wir das eigene Selbst introspektiv wahrnehmen können.]]></description>
@@ -136,7 +136,7 @@ Plantinga, A., 1967, <em>God and Other Minds</em>, Ithaca: Cornell University Pr
         </item>
         <item>
             <title><![CDATA[Robert Nozick -- Das "Experience Machine"-Argument gegen den Hedonismus]]></title>
-            <link>https://argumentation.online/en/reconstructions/Lanius_ArgOnl-2020-1</link>
+            <link>https://argumentation.online/argumentation.online/en/reconstructions/Lanius_ArgOnl-2020-1</link>
             <guid>Lanius_ArgOnl-2020-1</guid>
             <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Nozicks "Experience Machine" ist ein berühmtes Gedankenexperiment, in dem man die Wahl hat, sich an eine Maschine anzuschließen, um darin simulierte Glückserfahrungen zu machen. Es soll zeigen, dass sich niemand an eine solche Maschine anschließen würde und deshalb der Hedonismus falsch ist.]]></description>

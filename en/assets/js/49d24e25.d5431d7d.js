@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[6270],{3945:n=>{n.exports=JSON.parse('{"label":"informell","permalink":"/argumentation.online/en/reconstructions/tags/informell","allTagsPath":"/argumentation.online/en/reconstructions/tags","count":1}')}}]);

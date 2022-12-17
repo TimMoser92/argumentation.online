@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[2108],{7309:n=>{n.exports=JSON.parse('{"label":"Hedonismus","permalink":"/argumentation.online/en/reconstructions/tags/hedonismus","allTagsPath":"/argumentation.online/en/reconstructions/tags","count":1}')}}]);

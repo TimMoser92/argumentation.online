@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[8404],{2864:n=>{n.exports=JSON.parse('{"label":"Disjunktiver Syllogismus","permalink":"/argumentation.online/en/reconstructions/tags/disjunktiver-syllogismus","allTagsPath":"/argumentation.online/en/reconstructions/tags","count":1}')}}]);

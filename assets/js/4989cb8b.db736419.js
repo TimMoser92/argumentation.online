@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[5021],{3890:n=>{n.exports=JSON.parse('{"label":"Maschinen","permalink":"/reconstructions/tags/maschinen","allTagsPath":"/reconstructions/tags","count":1}')}}]);

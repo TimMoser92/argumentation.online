@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[9925],{6076:e=>{e.exports=JSON.parse('{"label":"Lebewesen","permalink":"/en/reconstructions/tags/lebewesen","allTagsPath":"/en/reconstructions/tags","count":1}')}}]);

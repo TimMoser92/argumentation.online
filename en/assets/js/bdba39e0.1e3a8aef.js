@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[1385],{3049:n=>{n.exports=JSON.parse('{"label":"Satz vom Widerspruch","permalink":"/argumentation.online/en/reconstructions/tags/satz-vom-widerspruch","allTagsPath":"/argumentation.online/en/reconstructions/tags","count":1}')}}]);

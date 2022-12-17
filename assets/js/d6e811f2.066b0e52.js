@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[1351],{5046:n=>{n.exports=JSON.parse('{"label":"Nietzsche","permalink":"/argumentation.online/reconstructions/tags/nietzsche","allTagsPath":"/argumentation.online/reconstructions/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[6484],{1535:n=>{n.exports=JSON.parse('{"label":"Leibniz","permalink":"/argumentation.online/en/reconstructions/tags/leibniz","allTagsPath":"/argumentation.online/en/reconstructions/tags","count":2}')}}]);

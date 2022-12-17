@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[3845],{5913:n=>{n.exports=JSON.parse('{"label":"Adjunktiver Syllogismus","permalink":"/argumentation.online/reconstructions/tags/adjunktiver-syllogismus","allTagsPath":"/argumentation.online/reconstructions/tags","count":1}')}}]);

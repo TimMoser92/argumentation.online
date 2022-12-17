@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargumentation_online=self.webpackChunkargumentation_online||[]).push([[949],{1646:n=>{n.exports=JSON.parse('{"label":"Physikalismus","permalink":"/argumentation.online/en/reconstructions/tags/physikalismus","allTagsPath":"/argumentation.online/en/reconstructions/tags","count":1}')}}]);
